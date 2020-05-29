@@ -1,0 +1,1896 @@
+<!DOCTYPE html>
+<html  >
+<head id="head"><title>
+	COVID-19 vaccine tracker | RAPS
+</title><meta charset="UTF-8" /> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="apple-touch-icon" sizes="76x76" href="/App_Themes/RAPS/assets/src/images/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/App_Themes/RAPS/assets/src/images/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/App_Themes/RAPS/assets/src/images/favicons/favicon-16x16.png">
+<link rel="manifest" href="/App_Themes/RAPS/assets/src/images/favicons/manifest.json">
+<link rel="mask-icon" href="/App_Themes/RAPS/assets/src/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/App_Themes/RAPS/assets/src/images/favicons/favicon.ico">
+<meta name="msapplication-config" content="/App_Themes/RAPS/assets/src/images/favicons/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NGHF4D');</script>
+<!-- End Google Tag Manager -->
+
+<script type="text/javascript">
+_linkedin_partner_id = "52304";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+
+<!-- Hotjar Tracking Code for https://www.raps.org -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:717446,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=52304&fmt=gif" />
+</noscript>
+<link rel="stylesheet" type="text/css" href="/App_Themes/RAPS/assets/dist/css/main.min.css" />
+<script type="text/javascript">
+(function() { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = '//api.at.getsocial.io/widget/v1/gs_async.js?id=0ad784'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })();
+</script> 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2736591-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-2736591-2');
+</script>
+<script>
+//-------------------------------------------------------
+var z_account = "AC3D668B-8014-404D-8A18-48EA256D01C6";
+var z_collector = "RAPS.informz.net";
+var z_cookieDomain = ".raps.org";
+//-------------------------------------------------------
+(function (e, o, n, r, t, a, s) { e[t] || (e.GlobalSnowplowNamespace = e.GlobalSnowplowNamespace || [], e.GlobalSnowplowNamespace.push(t), e[t] = function () { (e[t].q = e[t].q || []).push(arguments) }, e[t].q = e[t].q || [], a = o.createElement(n), s = o.getElementsByTagName(n)[0], a.async = 1, a.src = r, s.parentNode.insertBefore(a, s)) }(window, document, "script", "https://"+z_collector+"/web_trk/sp.js", "informz_trk")), informz_trk("newTracker", "infz", z_collector + "/web_trk/collector/", { appId: z_account, cookieDomain: z_cookieDomain }), informz_trk("setUserIdFromLocation", "_zs"), informz_trk("enableActivityTracking", 30, 15); informz_trk("trackPageView", null);
+</script><link href="/WebResource.axd?d=hcXDZhXiidgsQUtEo5iT38pnZTFwT4QuVonvGMvZpPNkqY_MAKEytSh0ASS2vJxD9zMmzA1O00NH7Zo0rWej2MoP_iJ3EXfLNajpITPgqAvJ65HlPdPH-zGKxGbIXd_jxCk217yQL-oYHLs-Wil35NMm5dw1&amp;t=637190750860000000" type="text/css" rel="stylesheet" /><meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="RAPSorg" />
+<meta property="og:url" content="https://www.raps.org/news-and-articles/news-articles/2020/3/covid-19-vaccine-tracker" />
+<meta property="og:title" content="COVID-19 vaccine tracker" />
+<meta property="og:description" content="This update includes<em> </em>new information on vaccine candidates from Merck, Moderna, CanSino Biologics and ImmunityBio.&nbsp;" />
+
+  <meta property="og:image" content="https://www.raps.org/RAPS/media/Education-Events/2020-04-COVID-19-Vaccine-Tracker-500x300-(1).jpg?ext=.jpg"/>
+<link href="/CMSPages/GetCSS.aspx?_webparts=1131" type="text/css" rel="stylesheet"/>
+</head>
+<body class="LTR Unknown ENUS ContentBody" >
+     <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NGHF4D"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    <form method="post" action="/news-and-articles/news-articles/2020/3/covid-19-vaccine-tracker" id="form">
+
+
+<input type="hidden" name="lng" id="lng" value="en-US" />
+<script src="/CMSScripts/WebServiceCall.js" type="text/javascript"></script>
+<script type="text/javascript">
+	//<![CDATA[
+
+function PM_Postback(param) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); } if(window.CMSContentManager) { CMSContentManager.allowSubmit = true; }; __doPostBack('m$am',param); }
+function PM_Callback(param, callback, ctx) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }if (window.CMSContentManager) { CMSContentManager.storeContentChangedStatus(); };WebForm_DoCallback('m$am',param,callback,ctx,null,true); }
+//]]>
+</script>
+<script src="/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvmCJZ6hifF_eR3zwGw82IxBYfOQ352odfIHB0LtPjQNnexQVhcZYFq9nzS_aWQEO78ZSPc56PDRl9olvLANFwSox0OXVUQnYc3PboEIYDSHAG7Yu6ytYunNKaftIwoKyGqJ5yG41&amp;t=ffffffffecf19baa" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=eE6V8nDbUVn0gtG6hKNX_J8tMK1oFNAtTIq0toS2BXeZNOK5q6QTPG_rRKTtvjDC7MXXxp2aZPg1oD0i6r4QuMQmongmj_dK3QC6wYsfqP7VypUH0&amp;t=27679117" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=mcAASOSteirJeuV-3by3UWmuk8E2Lw2tOCj3MBqx97jB3aLRAv0uJUc_UtnyTLW_ujPLCztwtsA2JffiZ_SsX6-pSTI1&amp;t=27679117" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=jwf4VSQi7LeShc44FJ-gAcOKGmF9L0Fb4UV0S92Vca051gq9vQ7l6qv9_yG4bGRP7nIJRysDpsN-sNKBEZL9TSWRkfPF6LVi23mRSdbKcfkWa0Lu0&amp;t=27679117" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=HEFpVKbnoeQjkjHkFKu3MLJEEzmovbIxXg-1onOPri0erDA96qUeuCwFq972pbnurOmxLGe6OycJBCF4mAjiXmOqd6fbwn7-GIeovzpuFa8eWdHl0&amp;t=27679117" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=X6kQKInQS5YQqruiTh57iNRdq4bq_ExwCXaKKXHEgl5AEaP8HRWV3DeldWRf80iwoKhWE_WIR0ELGgFnC6PGYUt22pzbPMUsY3EG0vO-U2Vbf5rg0&amp;t=27679117" type="text/javascript"></script>
+<script type="text/javascript">
+	//<![CDATA[
+
+var CMS = CMS || {};
+CMS.Application = {
+  "language": "en",
+  "imagesUrl": "/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2f",
+  "isDebuggingEnabled": false,
+  "applicationUrl": "/",
+  "isDialog": false,
+  "isRTL": "false"
+};
+
+//]]>
+</script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A5343185" />
+    
+    <div id="ctxM">
+
+</div>
+    <div class="svg-legend" aria-hidden="true">
+  <svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="icomoon-lock" viewBox="0 0 59.901 94.6">
+<title>Lock</title>
+<path d="m30 0c-16.6 0-30 13.4-30 30v59.4c0 2.9 2.3 5.2 5.2 5.2h49.5c2.9 0 5.2-2.3 5.2-5.2v-59.4c0.1-16.6-13.3-30-29.9-30zm3.6 64.7v9.4c0 2-1.6 3.6-3.6 3.6s-3.6-1.6-3.6-3.6v-9.4c-1.5-1.1-2.5-2.9-2.5-4.9 0-3.4 2.7-6.1 6.1-6.1s6.1 2.7 6.1 6.1c0 2.1-1 3.8-2.5 4.9zm18.5-30.1h-44.2v-4.6c0-12.2 9.9-22.1 22.1-22.1s22.1 9.9 22.1 22.1z"/>
+</symbol>
+<symbol id="icomoon-lock-alt" viewBox="0 0 18 28">
+<title>Members Only</title>
+<path d="M5 12h8v-3c0-2.203-1.797-4-4-4s-4 1.797-4 4v3zM18 13.5v9c0 0.828-0.672 1.5-1.5 1.5h-15c-0.828 0-1.5-0.672-1.5-1.5v-9c0-0.828 0.672-1.5 1.5-1.5h0.5v-3c0-3.844 3.156-7 7-7s7 3.156 7 7v3h0.5c0.828 0 1.5 0.672 1.5 1.5z"></path>
+</symbol>
+<symbol id="icomoon-close" viewBox="0 0 32 32">
+<title>close</title>
+<path d="M32 3.2l-3.2-3.2-12.8 12.8-12.8-12.8-3.2 3.2 12.8 12.8-12.8 12.8 3.2 3.2 12.8-12.8 12.8 12.8 3.2-3.2-12.8-12.8 12.8-12.8z"></path>
+</symbol>
+<symbol id="icomoon-arrow-right" viewBox="0 0 32 32">
+<title>arrow-right</title>
+<path d="M19.25 25.813c0.128 0 0.256-0.049 0.354-0.146l9.438-9.438c0-0 0.001-0.001 0.001-0.001s0-0 0-0c0.088-0.089 0.137-0.203 0.144-0.319 0.002-0.032 0.001-0.065-0.003-0.097-0.012-0.095-0.051-0.186-0.117-0.263-0.009-0.010-0.018-0.020-0.028-0.030l-9.435-9.435c-0.195-0.195-0.512-0.195-0.707 0s-0.195 0.512 0 0.707l8.584 8.584h-23.668c-0.276 0-0.5 0.224-0.5 0.5s0.224 0.5 0.5 0.5h23.668l-8.584 8.584c-0.098 0.098-0.146 0.226-0.146 0.354s0.049 0.256 0.146 0.354c0.098 0.098 0.226 0.146 0.354 0.146z"></path>
+</symbol>
+<symbol id="icomoon-cart" viewBox="0 0 32 32">
+<title>cart</title>
+<path d="M12 29c0 1.657-1.343 3-3 3s-3-1.343-3-3c0-1.657 1.343-3 3-3s3 1.343 3 3z"></path>
+<path d="M32 29c0 1.657-1.343 3-3 3s-3-1.343-3-3c0-1.657 1.343-3 3-3s3 1.343 3 3z"></path>
+<path d="M32 16v-12h-24c0-1.105-0.895-2-2-2h-6v2h4l1.502 12.877c-0.915 0.733-1.502 1.859-1.502 3.123 0 2.209 1.791 4 4 4h24v-2h-24c-1.105 0-2-0.895-2-2 0-0.007 0-0.014 0-0.020l26-3.98z"></path>
+</symbol>
+<symbol id="icomoon-search" viewBox="0 0 32 32">
+<title>search</title>
+<path d="M31.008 27.231l-7.58-6.447c-0.784-0.705-1.622-1.029-2.299-0.998 1.789-2.096 2.87-4.815 2.87-7.787 0-6.627-5.373-12-12-12s-12 5.373-12 12 5.373 12 12 12c2.972 0 5.691-1.081 7.787-2.87-0.031 0.677 0.293 1.515 0.998 2.299l6.447 7.58c1.104 1.226 2.907 1.33 4.007 0.23s0.997-2.903-0.23-4.007zM12 20c-4.418 0-8-3.582-8-8s3.582-8 8-8 8 3.582 8 8-3.582 8-8 8z"></path>
+</symbol>
+<symbol id="icomoon-google-plus" viewBox="0 0 32 32">
+<title>google-plus</title>
+<path d="M10.181 14.294v3.494h5.775c-0.231 1.5-1.744 4.394-5.775 4.394-3.475 0-6.313-2.881-6.313-6.431s2.838-6.431 6.313-6.431c1.981 0 3.3 0.844 4.056 1.569l2.762-2.662c-1.775-1.656-4.075-2.662-6.819-2.662-5.631 0.006-10.181 4.556-10.181 10.188s4.55 10.181 10.181 10.181c5.875 0 9.775-4.131 9.775-9.95 0-0.669-0.075-1.181-0.163-1.688h-9.613z"></path>
+<path d="M32 14h-3v-3h-3v3h-3v3h3v3h3v-3h3z"></path>
+</symbol>
+<symbol id="icomoon-facebook" viewBox="0 0 32 32">
+<title>facebook</title>
+<path d="M19 6h5v-6h-5c-3.86 0-7 3.14-7 7v3h-4v6h4v16h6v-16h5l1-6h-6v-3c0-0.542 0.458-1 1-1z"></path>
+</symbol>
+<symbol id="icomoon-twitter" viewBox="0 0 32 32">
+<title>twitter</title>
+<path d="M32 7.075c-1.175 0.525-2.444 0.875-3.769 1.031 1.356-0.813 2.394-2.1 2.887-3.631-1.269 0.75-2.675 1.3-4.169 1.594-1.2-1.275-2.906-2.069-4.794-2.069-3.625 0-6.563 2.938-6.563 6.563 0 0.512 0.056 1.012 0.169 1.494-5.456-0.275-10.294-2.888-13.531-6.862-0.563 0.969-0.887 2.1-0.887 3.3 0 2.275 1.156 4.287 2.919 5.463-1.075-0.031-2.087-0.331-2.975-0.819 0 0.025 0 0.056 0 0.081 0 3.181 2.263 5.838 5.269 6.437-0.55 0.15-1.131 0.231-1.731 0.231-0.425 0-0.831-0.044-1.237-0.119 0.838 2.606 3.263 4.506 6.131 4.563-2.25 1.762-5.075 2.813-8.156 2.813-0.531 0-1.050-0.031-1.569-0.094 2.913 1.869 6.362 2.95 10.069 2.95 12.075 0 18.681-10.006 18.681-18.681 0-0.287-0.006-0.569-0.019-0.85 1.281-0.919 2.394-2.075 3.275-3.394z"></path>
+</symbol>
+<symbol id="icomoon-youtube" viewBox="0 0 32 32">
+<title>youtube</title>
+<path d="M31.681 9.6c0 0-0.313-2.206-1.275-3.175-1.219-1.275-2.581-1.281-3.206-1.356-4.475-0.325-11.194-0.325-11.194-0.325h-0.012c0 0-6.719 0-11.194 0.325-0.625 0.075-1.987 0.081-3.206 1.356-0.963 0.969-1.269 3.175-1.269 3.175s-0.319 2.588-0.319 5.181v2.425c0 2.587 0.319 5.181 0.319 5.181s0.313 2.206 1.269 3.175c1.219 1.275 2.819 1.231 3.531 1.369 2.563 0.244 10.881 0.319 10.881 0.319s6.725-0.012 11.2-0.331c0.625-0.075 1.988-0.081 3.206-1.356 0.962-0.969 1.275-3.175 1.275-3.175s0.319-2.587 0.319-5.181v-2.425c-0.006-2.588-0.325-5.181-0.325-5.181zM12.694 20.15v-8.994l8.644 4.513-8.644 4.481z"></path>
+</symbol>
+<symbol id="icomoon-flickr" viewBox="0 0 32 32">
+<title>flickr</title>
+<path d="M0 17c0-3.866 3.134-7 7-7s7 3.134 7 7c0 3.866-3.134 7-7 7s-7-3.134-7-7zM18 17c0-3.866 3.134-7 7-7s7 3.134 7 7c0 3.866-3.134 7-7 7s-7-3.134-7-7z"></path>
+</symbol>
+<symbol id="icomoon-linkedin" viewBox="0 0 32 32">
+<title>linkedin</title>
+<path d="M12 12h5.535v2.837h0.079c0.77-1.381 2.655-2.837 5.464-2.837 5.842 0 6.922 3.637 6.922 8.367v9.633h-5.769v-8.54c0-2.037-0.042-4.657-3.001-4.657-3.005 0-3.463 2.218-3.463 4.509v8.688h-5.767v-18z"></path>
+<path d="M2 12h6v18h-6v-18z"></path>
+<path d="M8 7c0 1.657-1.343 3-3 3s-3-1.343-3-3c0-1.657 1.343-3 3-3s3 1.343 3 3z"></path>
+</symbol>
+<symbol id="icomoon-calendar" viewBox="0 0 20 20">
+<title>calendar</title>
+<path d="M17 3h-1v2h-3v-2h-6v2h-3v-2h-1c-1.101 0-2 0.9-2 2v12c0 1.1 0.899 2 2 2h14c1.1 0 2-0.9 2-2v-12c0-1.1-0.9-2-2-2zM17 17h-14v-8h14v8zM6.5 1h-2v3.5h2v-3.5zM15.5 1h-2v3.5h2v-3.5z"></path>
+</symbol>
+<symbol id="icomoon-user" viewBox="0 0 32 32">
+<title>user</title>
+<path d="M19.389 12.531c0 1.872-1.517 3.389-3.389 3.389s-3.389-1.517-3.389-3.389c0-1.872 1.517-3.389 3.389-3.389s3.389 1.517 3.389 3.389z"></path>
+<path d="M20.629 17.125h-9.258c-0.603 0-1.092 0.489-1.092 1.092v6.891c1.667 1.036 3.629 1.645 5.737 1.645 2.095 0 4.044-0.601 5.706-1.626v-6.91c0-0.603-0.489-1.092-1.093-1.092z"></path>
+<path d="M16 0c-8.837 0-16 7.163-16 16s7.163 16 16 16 16-7.163 16-16-7.163-16-16-16zM16.019 29.229c-7.349 0-13.306-5.957-13.306-13.306s5.957-13.306 13.306-13.306 13.306 5.957 13.306 13.306-5.957 13.306-13.306 13.306z"></path>
+</symbol>
+<symbol id="icomoon-menu" viewBox="0 0 20 20">
+<title>menu</title>
+<path d="M16.4 9h-12.8c-0.552 0-0.6 0.447-0.6 1s0.048 1 0.6 1h12.8c0.552 0 0.6-0.447 0.6-1s-0.048-1-0.6-1zM16.4 13h-12.8c-0.552 0-0.6 0.447-0.6 1s0.048 1 0.6 1h12.8c0.552 0 0.6-0.447 0.6-1s-0.048-1-0.6-1zM3.6 7h12.8c0.552 0 0.6-0.447 0.6-1s-0.048-1-0.6-1h-12.8c-0.552 0-0.6 0.447-0.6 1s0.048 1 0.6 1z"></path>
+</symbol>
+<symbol id="icomoon-menu-close" viewBox="0 0 20 20">
+<title>menu-close</title>
+<path d="M14.348 14.849c-0.469 0.469-1.229 0.469-1.697 0l-2.651-3.030-2.651 3.029c-0.469 0.469-1.229 0.469-1.697 0-0.469-0.469-0.469-1.229 0-1.697l2.758-3.15-2.759-3.152c-0.469-0.469-0.469-1.228 0-1.697s1.228-0.469 1.697 0l2.652 3.031 2.651-3.031c0.469-0.469 1.228-0.469 1.697 0s0.469 1.229 0 1.697l-2.758 3.152 2.758 3.15c0.469 0.469 0.469 1.229 0 1.698z"></path>
+</symbol>
+<symbol id="icomoon-print" viewBox="0 0 32 32">
+<title>print</title>
+<path d="M8 2h16v4h-16v-4z"></path>
+<path d="M30 8h-28c-1.1 0-2 0.9-2 2v10c0 1.1 0.9 2 2 2h6v8h16v-8h6c1.1 0 2-0.9 2-2v-10c0-1.1-0.9-2-2-2zM4 14c-1.105 0-2-0.895-2-2s0.895-2 2-2 2 0.895 2 2-0.895 2-2 2zM22 28h-12v-10h12v10z"></path>
+</symbol>
+<symbol id="icomoon-share" viewBox="0 0 32 32">
+<title>share</title>
+<path d="M8 20c0 0 1.838-6 12-6v6l12-8-12-8v6c-8 0-12 4.99-12 10zM22 24h-18v-12h3.934c0.315-0.372 0.654-0.729 1.015-1.068 1.374-1.287 3.018-2.27 4.879-2.932h-13.827v20h26v-8.395l-4 2.667v1.728z"></path>
+</symbol>
+<symbol id="icomoon-circle-down" viewBox="0 0 32 32">
+<title>circle-down</title>
+<path d="M32 16c0-8.837-7.163-16-16-16s-16 7.163-16 16 7.163 16 16 16 16-7.163 16-16zM3 16c0-7.18 5.82-13 13-13s13 5.82 13 13-5.82 13-13 13-13-5.82-13-13z"></path>
+<path d="M9.914 11.086l-2.829 2.829 8.914 8.914 8.914-8.914-2.828-2.828-6.086 6.086z"></path>
+</symbol>
+<symbol id="icomoon-help" viewBox="0 0 20 20">
+<title>help</title>
+<path d="M10 0.4c-5.302 0-9.6 4.298-9.6 9.6s4.298 9.6 9.6 9.6c5.301 0 9.6-4.298 9.6-9.601 0-5.301-4.299-9.599-9.6-9.599zM9.849 15.599h-0.051c-0.782-0.023-1.334-0.6-1.311-1.371 0.022-0.758 0.587-1.309 1.343-1.309l0.046 0.002c0.804 0.023 1.35 0.594 1.327 1.387-0.023 0.76-0.578 1.291-1.354 1.291zM13.14 9.068c-0.184 0.26-0.588 0.586-1.098 0.983l-0.562 0.387c-0.308 0.24-0.494 0.467-0.563 0.688-0.056 0.174-0.082 0.221-0.087 0.576v0.090h-2.145l0.006-0.182c0.027-0.744 0.045-1.184 0.354-1.547 0.485-0.568 1.555-1.258 1.6-1.287 0.154-0.115 0.283-0.246 0.379-0.387 0.225-0.311 0.324-0.555 0.324-0.793 0-0.334-0.098-0.643-0.293-0.916-0.188-0.266-0.545-0.398-1.061-0.398-0.512 0-0.863 0.162-1.072 0.496-0.216 0.341-0.325 0.7-0.325 1.067v0.092h-2.211l0.004-0.096c0.057-1.353 0.541-2.328 1.435-2.897 0.563-0.361 1.264-0.544 2.081-0.544 1.068 0 1.972 0.26 2.682 0.772 0.721 0.519 1.086 1.297 1.086 2.311-0.001 0.567-0.18 1.1-0.534 1.585z"></path>
+</symbol>
+<symbol id="icomoon-briefcase" viewBox="0 0 32 32">
+<title>briefcase</title>
+<path d="M27 29h-23c-1.105 0-2-0.896-2-2v-12c0 0 5.221 2.685 10 3.784v1.216c0 0.553 0.447 1 1 1h5c0.552 0 1-0.447 1-1v-1.216c4.778-1.099 10-3.784 10-3.784v12c0 1.104-0.896 2-2 2zM17 17c0.552 0 1 0.447 1 1v1c0 0.553-0.448 1-1 1h-3c-0.553 0-1-0.447-1-1v-1c0-0.553 0.447-1 1-1h3zM19 17c0-0.553-0.448-1-1-1h-5c-0.553 0-1 0.447-1 1v0.896c-4.779-1.132-10-3.896-10-3.896v-4c0-1.104 0.895-2 2-2h6v-2c0-1.104 0.896-2 2-2h7c1.104 0 2 0.896 2 2v2h6c1.104 0 2 0.896 2 2v4c0 0-5.222 2.764-10 3.896v-0.896zM19 7c0-0.553-0.448-1-1-1h-5c-0.553 0-1 0.447-1 1 0 0.552 0 1 0 1h7c0 0 0-0.448 0-1z"></path>
+</symbol>
+<symbol id="icomoon-latest" viewBox="0 0 16 16">
+<title>latest</title>
+<path d="M8 0c-4.418 0-8 3.582-8 8s3.582 8 8 8 8-3.582 8-8-3.582-8-8-8zM10.293 11.707l-3.293-3.293v-4.414h2v3.586l2.707 2.707-1.414 1.414z"></path>
+</symbol>
+<symbol id="icomoon-recon" viewBox="0 0 28 28">
+<title>recon</title>
+<path d="M11 5v12c0 0.547-0.453 1-1 1v0 9c0 0.547-0.453 1-1 1h-8c-0.547 0-1-0.453-1-1v-8l3.891-13.641c0.063-0.219 0.266-0.359 0.484-0.359h6.625zM16 5v11h-4v-11h4zM28 19v8c0 0.547-0.453 1-1 1h-8c-0.547 0-1-0.453-1-1v-9c-0.547 0-1-0.453-1-1v-12h6.625c0.219 0 0.422 0.141 0.484 0.359zM11.5 0.5v3.5h-5.5v-3.5c0-0.281 0.219-0.5 0.5-0.5h4.5c0.281 0 0.5 0.219 0.5 0.5zM22 0.5v3.5h-5.5v-3.5c0-0.281 0.219-0.5 0.5-0.5h4.5c0.281 0 0.5 0.219 0.5 0.5z"></path>
+</symbol>
+<symbol id="icomoon-star" viewBox="0 0 16 16">
+<title>star</title>
+<path d="M16 6.204l-5.528-0.803-2.472-5.009-2.472 5.009-5.528 0.803 4 3.899-0.944 5.505 4.944-2.599 4.944 2.599-0.944-5.505 4-3.899z"></path>
+</symbol>
+<symbol id="icomoon-word-bubble" viewBox="0 0 28 28">
+<title>word-bubble</title>
+<path d="M10 14c0-1.109-0.891-2-2-2s-2 0.891-2 2 0.891 2 2 2 2-0.891 2-2zM16 14c0-1.109-0.891-2-2-2s-2 0.891-2 2 0.891 2 2 2 2-0.891 2-2zM22 14c0-1.109-0.891-2-2-2s-2 0.891-2 2 0.891 2 2 2 2-0.891 2-2zM28 14c0 5.531-6.266 10-14 10-1.141 0-2.25-0.094-3.297-0.281-1.781 1.781-4.109 3-6.797 3.578-0.422 0.078-0.875 0.156-1.344 0.203-0.25 0.031-0.484-0.141-0.547-0.375v0c-0.063-0.25 0.125-0.406 0.313-0.578 0.984-0.922 2.156-1.656 2.562-4.953-2.984-1.828-4.891-4.547-4.891-7.594 0-5.531 6.266-10 14-10s14 4.469 14 10z"></path>
+</symbol>
+<symbol id="icomoon-news" viewBox="0 0 16 16">
+<title>news</title>
+<path d="M14 4v-2h-14v11c0 0.552 0.448 1 1 1h13.5c0.828 0 1.5-0.672 1.5-1.5v-8.5h-2zM13 13h-12v-10h12v10zM2 5h10v1h-10zM8 7h4v1h-4zM8 9h4v1h-4zM8 11h3v1h-3zM2 7h5v5h-5z"></path>
+</symbol>
+</defs>
+</svg>
+</div>
+<div class="CookieConsent">
+    <div class="container">
+        <span id="p_lt_ctl00_SimpleCookieLawConsent_lblText" class="ConsentText">RAPS.org needs your explicit consent to store browser cookies. If you don't allow cookies, you may not be able to use certain features of the web site such as personalized content. Please see our Privacy Policy for more information.</span>
+        
+        <span class="ConsentButtons">
+            
+            
+            <input type="submit" name="p$lt$ctl00$SimpleCookieLawConsent$btnAllowAll" value="Allow cookies" id="p_lt_ctl00_SimpleCookieLawConsent_btnAllowAll" class="ConsentButton btn btn-default" />
+        </span>
+    </div>
+</div>
+
+<a class="visuallyhidden focusable skip-link" href="#site-navigation">Skip to Main Navigation</a>
+<a class="visuallyhidden focusable skip-link" href="#site-main">Skip to Main Content</a>
+<a class="visuallyhidden focusable skip-link" href="#site-footer">Skip to Footer</a>
+
+
+
+<header id="site-header" class="site-header site-header-paddingCustom" role="banner">
+  <span id="p_lt_ctl01_Header_PageID" style="display:none;"><font color="White">cfc94f37-d270-42b5-b40a-c1ee10e3121a</font></span>
+
+    <!-- Site Login Start -->
+    <div id="siteLogin" class="input-group-site-login collapsible-group">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 text-right">
+                    <a class="login-search-close" href="#">
+                        <svg class="icomoon icomoon-close">
+                            <use xlink:href="#icomoon-close"></use>
+                        </svg>
+                        <span class="sr-only">Close Login</span>
+                    </a>
+                </div>
+            </div>
+            
+
+            <div class="form-group">
+                <!--<form id="loginForm" method="post" autocomplete="off" action="">-->
+                        <div class="row">
+                        <div class="col-md-12">
+                            <p style="text-align:center; padding:10px 0;">Welcome to our new website! If this is the first time you are logging in on the new site, you will need to <a href="https://my.raps.org/account/login.aspx?forgot=yes&RedirectUrl=https%3a%2f%2fwww.raps.org%2f&reload=timezone">reset your password</a>. Please contact us at <a href="mailto:raps@raps.org">raps@raps.org</a> if you need assistance.</p>
+                        </div>
+                        <div class="col-sm-2">
+                            <label class="control-label"><svg class="icomoon icomoon-user"><use xlink:href="#icomoon-user"></use></svg>Login</label>
+                        </div>
+                        <div class="col-sm-4 col-md-3">
+                            <label class="sr-only" for="loginUsername">E-mail address</label>
+                            
+                            <input name="loginUsername" id="loginUsername" type="text" class="form-control" placeholder="E-mail address" autocomplete="on" />
+                            <span class="error" style="display: none;" id="spanError">E-mail address & Password Combo is invalid</span>
+                        </div>
+                        <div class="col-sm-4 col-md-3">
+                            <label class="sr-only" for="loginPassword">Password</label>
+                            <input name="loginPassword" type="password" id="loginPassword" class="form-control" placeholder="Password" />
+                        </div>
+                        <div class="col-sm-2">
+                            <input type="submit" value="Login" class="loginBtn btn btn-default" AlternateText="Login" />
+                        </div>
+                        <div class="col-sm-12 col-md-2">
+                            <ul class="list-unstyled login-help">
+                                <li><a href="https://my.raps.org/account/login.aspx?forgot=yes&RedirectUrl=https%3a%2f%2fwww.raps.org%2fnews-and-articles%2fnews-articles%2f2020%2f3%2fcovid-19-vaccine-tracker?reload=timezone" id="p_lt_ctl01_Header_lnkForgotPassword">Forgot Password?</a></li>
+                                <li><a href="https://my.raps.org/account/login.aspx?signup=yes&RedirectUrl=https%3a%2f%2fwww.raps.org%2fnews-and-articles%2fnews-articles%2f2020%2f3%2fcovid-19-vaccine-tracker" id="p_lt_ctl01_Header_lnkCreateAccount">Create an Account</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                <!--</form>-->
+            </div>
+        </div>
+    </div>
+    <!-- Site Login End -->
+
+    <!-- Site Search Start-->
+    <div id="p_lt_ctl01_Header_ctlSearchBox_pnlSearch">
+	
+<div id="siteSearch" class="input-group-site-search collapsible-group">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 text-right">
+                <a class="search-close" href="#">
+                    <svg class="icomoon icomoon-close">
+                        <use xlink:href="#icomoon-close"></use>
+                    </svg><span class="sr-only">Close Search</span>
+                </a>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="row">
+                <div class="col-sm-3 col-md-2">
+                    <label for="p_lt_ctl01_Header_ctlSearchBox_txtKeyword" id="p_lt_ctl01_Header_ctlSearchBox_lblSearch" class="control-label"><svg class="icomoon icomoon-search"><use xlink:href="#icomoon-search"></use></svg>Search:</label>
+                </div>
+                <div class="col-sm-7 col-md-9">
+                    <input type="hidden" name="p$lt$ctl01$Header$ctlSearchBox$txtKeyword_exWatermark_ClientState" id="p_lt_ctl01_Header_ctlSearchBox_txtKeyword_exWatermark_ClientState" /><input name="p$lt$ctl01$Header$ctlSearchBox$txtKeyword" type="text" maxlength="1000" id="p_lt_ctl01_Header_ctlSearchBox_txtKeyword" class="form-control" />
+                </div>
+                <div class="col-sm-2 col-md-1">
+                    <input type="submit" name="p$lt$ctl01$Header$ctlSearchBox$btnSearch" value="GO" id="p_lt_ctl01_Header_ctlSearchBox_btnSearch" class="btn btn-default" />
+                    
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12 text-right">
+                <div id="p_lt_ctl01_Header_ctlSearchBox_pnlPredictiveResultsHolder" class="predictiveSearchHolder">
+
+	</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</div>
+
+    <!--Site Search End -->
+
+    <link rel="stylesheet" href="/App_Themes/RAPS/assets/dist/css/easy-responsive-tabs.css">
+    <header id="header_new">
+        <div class="container">
+            <div class="header-top row">
+                <div class="col-lg-2">
+                    <a href="/" class="brand">
+                        <img src="/App_Themes/RAPS/assets/dist/images/site-logo.png"
+                            class="log-img-1" alt="Regulatory Affairs Professionals Society (RAPS)" />
+                    </a>
+                </div>
+                <div class="col-lg-10 col-sm-12 col-xs-12">
+                    <ul class="menu-ul">
+                        <li class="menu-li menu-li-img"  onclick="togglePopup()" id="menu-li-img" style="display: none;"><a>Menu</a></li>
+                        <li class="menu-li topic-li-img">
+                            <a data-toggle data-target="find_info_by_topic" href="#">TOPIC</a>
+                        </li>
+                        <div id="find_info_by_topic" class="header-menu-dropdown header-tools" style="display: none;"><a href="/search?searchtext=Biotech&searchmode=anyword">BIOTECH</a><a href="/search?searchtext=Brexit&searchmode=anyword">BREXIT</a><a href="/search?searchtext=Careers&searchmode=anyword">CAREERS</a><a href="/search?searchtext=Combination Products&searchmode=anyword">COMBINATION PRODUCTS</a><a href="/search?searchtext=EU MDR&searchmode=anyword">EU MDR</a><a href="/search?searchtext=IVDs&searchmode=anyword">IVDS</a><a href="/search?searchtext=Management&searchmode=anyword">MANAGEMENT</a><a href="/search?searchtext=Medical Devices&searchmode=anyword">MEDICAL DEVICES</a><a href="/search?searchtext=Pharmaceuticals&searchmode=anyword">PHARMACEUTICALS</a><a href="/search?searchtext=Regulatory Intelligence&searchmode=anyword">REGULATORY INTELLIGENCE</a></div>
+                        <li class="menu-li search-li-img">
+                            <a class="toggle-control-search" href="#" data-toggle data-hold data-target="siteSearch">
+                                <span><span class="sr-only">Open/Close </span>Search</span>
+                            </a>
+                        </li>
+                        <li class="menu-li calender-li-img">
+                            <a href="/Events">
+                            <span>Calendar</span></a>
+                        </li>
+                        <li class="menu-li market-li-img"><a href="https://my.raps.org/" id="p_lt_ctl01_Header_lnkCart">
+                            <span><span class="hidden-xs hidden-sm"></span>Market Place</span>
+                        </a></li>
+                        <li class="menu-li sign-in-li">
+                                <!---->
+                                
+                                <a style="display:none;" href="#">
+                                    <svg class="icomoon icomoon-user">
+                                        <use xlink:href="#icomoon-user"></use>
+                        <a style="display:none;" href="#">
+                            <span><span class="hidden-xs hidden-sm">My </span>Account</span>
+                        </a>
+                        <a href="/" id="p_lt_ctl01_Header_aLogin" class="toggle-control-login" data-toggle="" data-hold="" data-target="siteLogin">
+                            <span id="p_lt_ctl01_Header_spanLoggedOut"><span class="sr-only">Open/Close </span>Sign In</span>
+                        </a>
+                        </li>
+                        <li class="menu-li join-li">
+                            <a href="/join-raps" id="p_lt_ctl01_Header_lnkJoin" class="btn btn-default  join-btn join">Join</a>
+                            
+                            
+                        </li>
+                    </ul>
+                <input name="p$lt$ctl01$Header$hdnSso" type="hidden" id="p_lt_ctl01_Header_hdnSso" class="hdnSso" />
+                <input name="p$lt$ctl01$Header$hdnImpexiumUrl" type="hidden" id="p_lt_ctl01_Header_hdnImpexiumUrl" class="hdnImpexiumUrl" />
+            </div>
+        </div>
+     </header>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="/App_Themes/RAPS/assets/dist/js/easy-responsive-tabs.js"></script>
+    <script>
+        jQuery(document).ready(function ($) {
+            if ($("#p_lt_ctl01_Header_PageID").text() == '1b17457e-e0a5-4e47-bbce-57218ff03bd8') {
+                $("#topbanner").show();
+                $("#menuitems").show();
+                $("#menu-li-img").show();
+                $("#header_new").css("border-bottom", "1px #bbb solid");
+            }
+            else {
+                if ($(window).width() > 1145) {
+                    $("#topbanner").hide();
+                    $("#menuitems").hide();
+                    $("#menu-li-img").hide();
+                } else {
+                    $("#topbanner").hide();
+                    $("#menuitems").hide();
+                    $('.menu-li-img').css('display', 'inline-block');
+                }
+                $(window).resize(function () {
+                    if ($(window).width() > 1145) {
+                        $("#topbanner").hide();
+                        $("#menuitems").hide();
+                        $("#menu-li-img").hide();
+                    } else {
+                        $("#topbanner").hide();
+                        $("#menuitems").hide();
+                        $('.menu-li-img').css('display', 'inline-block');
+                    }
+                });
+            }
+            if (window.location.href.toString().indexOf('/news-articles/') > 0) { 
+                $("#topbanner").show();
+            }
+            $('#vertical_menu').easyResponsiveTabs({
+                type: 'vertical',
+                width: 'auto',
+                fit: true,
+                closed: 'tabs'
+            });
+        });
+
+        function toggleMenu() {
+            var menuDiv = document.getElementById("menuDiv");
+            if ((menuDiv.style.display === "none") || (menuDiv.style.display === "")) {
+                menuDiv.style.display = "block";
+                document.getElementById('menu_button').classList.add('active-menu-button');
+            } else {
+                menuDiv.style.display = "none";
+                document.getElementById('menu_button').classList.remove('active-menu-button');
+            }
+        }
+
+        function togglePopup() {
+            var popupDiv = document.getElementById("menu-pop");
+            if ((popupDiv.style.display === "none") || (popupDiv.style.display === "")) {
+                if ($(window).width() > 1150) {
+                    $('#menu-pop').slideToggle();
+                    popupDiv.style.display = "flex";
+                } else {
+                    $('#menu-pop').slideToggle();
+                    popupDiv.style.display = "block";
+                }
+                $(window).resize(function () {
+                    //if ($(window).width() > 1150) {
+                    //    $('#menu-pop').slideDown();
+                    //    popupDiv.style.display = "flex";
+                    //} else {
+                    //    $('#menu-pop').slideDown();
+                    //    popupDiv.style.display = "block";
+                    //}
+                });
+            } else {
+                $('#menu-pop').slideToggle();
+                //popupDiv.style.display = "none";
+            }
+        }
+
+        function closeMenu() {
+            $('#menu-pop').slideToggle();
+        }
+        
+        $(document).keyup(function(e) {
+            if (e.keyCode === 27) $('#menu-pop').hide();   // esc key
+        });
+    </script>
+</header>
+<header id="site-headercustom" class="site-header site-header-paddingCustom" role="banner">
+  <div class="text-center top-banner" id="topbanner" style="display:none">
+  <a id="p_lt_ctl02_BannerRotatorcustom_lnkBanner" class="CMSBanner Banner" href="https://info.veristat.com/covid19_considerationsforsuccess_guide-raps" onclick="this.href=&#39;/CMSModules/BannerManagement/CMSPages/BannerRedirect.ashx?bannerID=290&#39;;" onmouseup="this.href=&#39;/CMSModules/BannerManagement/CMSPages/BannerRedirect.ashx?bannerID=290&#39;;" target="_blank"><picture> <source media="(max-width: 991px)" srcset="/RAPS/media/Advertising/2020/2005RFXVERIS5_300x50-mobile.jpg" /> <source media="(min-width: 992px)" srcset="/RAPS/media/Advertising/2018/Jan/2005RFXVERIS5_970x90.jpg" /> <img alt="Veristat" src="/RAPS/media/Advertising/2020/2005RFXVERIS5_300x50-mobile.jpg" title="Veristat" /> </picture></a>
+</div><div class="container" id="menuitems" style="display:none">
+            <div class="block-two">
+                <div class="row">
+                    <div class="col-md-3 col-sm-12">
+                        <img alt="Regulatory Focus"
+                            src="/App_Themes/RAPS/assets/dist/images/regulatory-focus-full.png"
+                            class="site-top-img" />
+                        <a class="menu-button-arrow" id="menu_button" onclick="toggleMenu()"></a>
+                    </div>
+<div class="col-md-7 col-sm-12 site-div2" id="menuDiv">
+    <ul class="site-top-ul">
+<li class='site-top-li'>
+  <a href=""><span>News</span></a>
+  
+  <ul class='new-ul'><li >
+  <a href="news-and-articles/news-articles?searchtext=pharmaceuticals&searchmode=exactphrase"><span>Pharma/Biotech</span></a>
+  
+</li><li >
+  <a href="news-and-articles/news-articles?searchtext=medical%20device&searchmode=exactphrase"><span>Devices/ IVDs</span></a>
+  
+</li><li >
+  <a href="news-and-articles/news-articles?searchtext=combo&searchmode=exactphrase"><span>Combo Products</span></a>
+  
+</li><li >
+  <a href="https://www.raps.org/news-and-articles/news-articles?searchtext=&searchmode=exactphrase&sortby=ArticleReleaseDate+DESC&pagesize=12&category=401"><span>RAPS Announcements</span></a>
+  
+</li></ul>
+
+</li><li class='site-top-li'>
+  <a href=""><span>Member Exclusive</span></a>
+  
+  <ul class='new-ul'><li >
+  <a href="https://www.raps.org/news-and-articles/news-articles?searchtext=&searchmode=exactphrase&sortby=ArticleReleaseDate+DESC&pagesize=12&category=394"><span>Features</span></a>
+  
+</li><li >
+  <a href="/news-and-articles/news-articles?searchtext=&searchmode=exactphrase&category=393"><span>Latest</span></a>
+  
+</li><li >
+  <a href="https://www.raps.org/news-and-articles/about-regulatory-focus/editorial-calendar"><span>Editorial Calendar</span></a>
+  
+</li><li >
+  <a href="/news-and-articles/compendia"><span>Article Series</span></a>
+  
+</li><li >
+  <a href="https://www.raps.org/join-raps"><span>Join Now</span></a>
+  
+</li></ul>
+
+</li><li class='site-top-li'>
+  <a href=""><span>Tools & Resources</span></a>
+  
+  <ul class='new-ul'><li >
+  <a href="https://www.raps.org/news-and-articles/regulatory-explainers"><span>Explainers</span></a>
+  
+</li><li >
+  <a href="https://www.raps.org/podcasts"><span>Podcasts</span></a>
+  
+</li><li >
+  <a href="/news-and-articles/news-articles?searchtext=&searchmode=exactphrase&sortby=ArticleReleaseDate+DESC&pagesize=12&category=398"><span>Legislative Trackers</span></a>
+  
+</li></ul>
+
+</li><li class='site-top-li'>
+  <a href=""><span>About</span></a>
+  
+  <ul class='new-ul'><li >
+  <a href="https://www.raps.org/news-and-articles/about-regulatory-focus"><span>About Regulatory Focus</span></a>
+  
+</li><li >
+  <a href="https://www.raps.org/news-and-articles/about-regulatory-focus/author-guidelines"><span>Submissions & Guidelines</span></a>
+  
+</li><li >
+  <a href="https://www.raps.org/news-and-articles/editorial-advisory-committee"><span>Editorial Advisory Committee</span></a>
+  
+</li><li >
+  <a href="https://www.raps.org/news-and-articles/copyright-clearance-center"><span>Copyright & Terms of Use</span></a>
+  
+</li><li >
+  <a href="/who-we-are/press-room"><span>Press Room</span></a>
+  
+</li><li >
+  <a href="/who-we-are/advertise"><span>Advertise</span></a>
+  
+</li><li >
+  <a href="/who-we-are/contact-us"><span>Contact</span></a>
+  
+</li></ul>
+
+</li>
+</ul>
+</div>
+<div class="col-md-2 col-sm-12 site-div3">
+                      <a href="https://www.raps.org/news-and-articles/subscribe-to-rf-today" class="btn btn-default subscribe-li subscribebtn" role="button">Subscribe</a>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </div><div class="clear"></div>
+<div class="menu-popup" id="menu-pop" style="display: none;">
+    <div  class="container position-relative">
+        <a class="menu-close-button" onclick="closeMenu()"><img src="/App_Themes/RAPS/assets/dist/icons/cancel.svg" class="close-img-land"></a>
+        <div class="clear"></div>
+        <div   class="pop-up-menu">
+            <div id="vertical_menu" class="resp-vtabs" style="display: block; width: 100%; margin: 0px;">
+<ul class="resp-tabs-list">
+<li >Who We Are</li>
+<li >News & Articles</li>
+<li >Membership & Community</li>
+<li >Careers</li>
+<li >Education & Events</li>
+<li >Publications & Resources</li>
+<li >RAC Credential</li>
+
+ </ul>
+<div  class="resp-tabs-container col-sm-12  col-md-12 col-lg-6 row-second">
+<div class="submenu" id="submenu">
+<div >  <a href="/who-we-are"><span>Who We Are</span></a></div>
+  <div >
+<div class="nav-sub-menu">
+  <ul  ><div class="submenu" id="submenu">
+<div >  <a href="/who-we-are"><span>Who We Are</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/who-we-are/contact-us"><span>Contact Us</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/who-we-are/advancing-the-profession"><span>Advancing the Profession</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/who-we-are/board-of-directors"><span>Board of Directors & Governance</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/who-we-are/work-for-raps"><span>Work for RAPS</span></a></div>
+  
+</div></ul>
+</div>
+
+<div class="nav-sub-menu">
+  <ul  ><div class="submenu" id="submenu">
+<div >  <a href="/website/covid-19-resources"><span>COVID-19 Resource Center</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/who-we-are/raps-europe"><span>RAPS Europe</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/who-we-are/press-room"><span>Press Room</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/who-we-are/advertise"><span>Advertise</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/who-we-are/year-in-review"><span>Year In Review</span></a></div>
+  
+</div></ul>
+</div>
+
+<div class="col-sm-6 row-third menuCol3 menu-scroll">
+  <ul  class='item-list'><li class="item">
+  <figure class="aside"><img src="/RAPS/media/Who-We-Are/who-we-are-2.jpg?ext=.jpg"  class="img-menu-popup" style="width:100%"></figure>
+  <h3 class="menu-pop-up-h3">About the Regulatory Profession</h3>
+<p class="menu-p">
+The regulatory function is vital in making safe and effective healthcare products available worldwide. Individuals who ensure regulatory compliance and prepare submissions, as well as those whose main job function is clinical affairs or quality assurance are all considered regulatory professionals.
+</p>
+<a href="/careers/about-the-regulatory-profession" class="menu-h4">Learn More About Regulatory </a>
+</li><li class="item">
+  <figure class="aside"><img src="/RAPS/media/Placeholders/2020-04-menu-covid19.jpg?ext=.jpg"  class="img-menu-popup" style="width:100%"></figure>
+  <h3 class="menu-pop-up-h3">COVID-19 Resource Center</h3>
+<p class="menu-p">
+Resources, news and special offers to support you and your professional development during this difficult time.
+</p>
+<a href="/website/covid-19-resources" class="menu-h4">LEARN MORE</a>
+</li></ul>
+</div>
+</div>
+</div><div class="submenu" id="submenu">
+<div >  <a href="/news-and-articles"><span>News & Articles</span></a></div>
+  <div >
+<div class="nav-sub-menu">
+  <ul  ><div class="submenu" id="submenu">
+<div >  <a href="/news-and-articles"><span>Regulatory Focus™</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/news-and-articles/about-regulatory-focus"><span>About Regulatory Focus</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/news-and-articles/subscribe-to-rf-today"><span>Subscribe to RF Today</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/podcasts"><span>Podcasts</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/news-and-articles/board-of-editors"><span>Editorial Advisory Committee</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/news-and-articles/copyright-clearance-center"><span>Copyright & Terms of Use</span></a></div>
+  
+</div></ul>
+</div>
+
+<div class="nav-sub-menu">
+  <ul  ><div class="submenu" id="submenu">
+<div >  <a href="/news-and-articles/news-articles?searchmode=exactphrase&sortby=ArticleReleaseDate+DESC&pagesize=12&category=394"><span>Feature Articles</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/news-and-articles/regulatory-recon"><span>Regulatory Recon</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/news-and-articles/regulatory-explainers"><span>Regulatory Explainers</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/news-and-articles/regulatory-trackers"><span>Regulatory Trackers</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/news-and-articles/news-articles?searchtext=&searchmode=exactphrase&sortby=ArticleReleaseDate+DESC&pagesize=12&category=393"><span>RAPS' Latest</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/news-and-articles/rf-article-series"><span>RF Article Series</span></a></div>
+  
+</div></ul>
+</div>
+
+<div class="col-sm-6 row-third menuCol3 menu-scroll">
+  <ul  class='item-list'><li class="item">
+  <figure class="aside"><img src="/RAPS/media/Placeholders/2020-04-menu-covid19.jpg?ext=.jpg"  class="img-menu-popup" style="width:100%"></figure>
+  <h3 class="menu-pop-up-h3">COVID-19 Resource Center</h3>
+<p class="menu-p">
+Resources, news and special offers to support you and your professional development during this difficult time.
+</p>
+<a href="/website/covid-19-resources" class="menu-h4">LEARN MORE</a>
+</li></ul>
+</div>
+</div>
+</div><div class="submenu" id="submenu">
+<div >  <a href="/membership-community"><span>Membership & Community</span></a></div>
+  <div >
+<div class="nav-sub-menu">
+  <ul  ><div class="submenu" id="submenu">
+<div >  <a href="/membership-community"><span>Membership & Community</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/member-dashboard"><span>Member Dashboard</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/membership-community/membership-type-benefits"><span>Membership Types & Benefits</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/membership-community/renew-your-membership"><span>Renew Your Membership</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="https://connect.raps.org/network/members"><span>Member Directory</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="http://connect.raps.org"><span>Regulatory Exchange Community</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/membership-community/chapters-local-networks"><span>Chapters & Local Networks</span></a></div>
+  
+</div></ul>
+</div>
+
+<div class="nav-sub-menu">
+  <ul  ><div class="submenu" id="submenu">
+<div >  <a href="/join-raps"><span>Join RAPS</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/membership-community/enterprise-members"><span>Enterprise Membership</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="https://www.raps.org/regexapp"><span>RegEx Community App</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/membership-community/raps-fellows"><span>RAPS Fellows</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/membership-community/volunteer-opportunities"><span>Volunteer Opportunities</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/membership-community/awards"><span>Awards</span></a></div>
+  
+</div></ul>
+</div>
+
+<div class="col-sm-6 row-third menuCol3 menu-scroll">
+  <ul  class='item-list'><li class="item">
+  <figure class="aside"><img src="/RAPS/media/Membership-Community/Callout%20Images/ethics.jpg?ext=.jpg"  class="img-menu-popup" style="width:100%"></figure>
+  <h3 class="menu-pop-up-h3">Regulatory Code of Ethics</h3>
+<p class="menu-p">
+One of our most valuable contributions to the profession is the Regulatory Code of Ethics. The Code of Ethics provides regulatory professionals with core values that hold them to the highest standards of professional conduct.
+</p>
+<a href="/who-we-are/advancing-the-profession/code-of-ethics" class="menu-h4">Follow the Code</a>
+</li><li class="item">
+  <figure class="aside"><img src="/RAPS/media/Membership-Community/Callout%20Images/knowledge-center.jpg?ext=.jpg"  class="img-menu-popup" style="width:100%"></figure>
+  <h3 class="menu-pop-up-h3">Member Knowledge Center</h3>
+<p class="menu-p">
+Your membership opens the door to free learning resources on demand. Check out the Member Knowledge Center for free webcasts, publications and online courses.
+</p>
+<a href="http://learningportal.raps.org/subscriptions/1017/member-knowledge-center" class="menu-h4">Get Started</a>
+</li></ul>
+</div>
+</div>
+</div><div class="submenu" id="submenu">
+<div >  <a href="/careers"><span>Careers</span></a></div>
+  <div >
+<div class="nav-sub-menu">
+  <ul  ><div class="submenu" id="submenu">
+<div >  <a href="/careers"><span>Careers</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="http://regulatorycareers.raps.org/jobseekers/"><span>Find a Job</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="http://regulatorycareers.raps.org/employers/"><span>Post a Job</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/careers/about-the-regulatory-profession"><span>About the Regulatory Profession</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/careers/rac-credentials"><span>RAC Credential</span></a></div>
+  
+</div></ul>
+</div>
+
+<div class="nav-sub-menu">
+  <ul  ><div class="submenu" id="submenu">
+<div >  <a href="/careers/scope-of-practice-survey"><span>Scope of Practice Survey</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/careers/career-fairs"><span>Career Fairs</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="https://connect.raps.org/rapscareercenter/home"><span>RegEx Career Community</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/careers/regulatory-competency-framework"><span>Regulatory Competency Framework</span></a></div>
+  
+</div></ul>
+</div>
+
+<div class="col-sm-6 row-third menuCol3 menu-scroll">
+  <ul  class='item-list'><li class="item">
+  <figure class="aside"><img src="/RAPS/media/Careers/RAPS-Regulatory-Competency-Framework-1.png?ext=.png"  class="img-menu-popup" style="width:100%"></figure>
+  <h3 class="menu-pop-up-h3">Regulatory Competency Framework</h3>
+<p class="menu-p">
+Like all professions, regulatory is based on a shared set of competencies. The Regulatory Competency Framework describes the essential elements of what is required of regulatory professionals at four major career and professional levels. 
+</p>
+<a href="/careers/regulatory-competency-framework" class="menu-h4">LEARN MORE</a>
+</li></ul>
+</div>
+</div>
+</div><div class="submenu" id="submenu">
+<div >  <a href="/education-events"><span>Education & Events</span></a></div>
+  <div >
+<div class="nav-sub-menu">
+  <ul  ><div class="submenu" id="submenu">
+<div >  <a href="/education-events"><span>Education & Events</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/education-events/e-learning"><span>E-Learning</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/events-training/industry-events"><span>Industry Events</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/education-events/in-person"><span>In-Person</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/events"><span>Calendar</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/regulatory-convergence"><span>Regulatory Convergence</span></a></div>
+  
+</div></ul>
+</div>
+
+<div class="nav-sub-menu">
+  <ul  ><div class="submenu" id="submenu">
+<div >  <a href="https://learningportal.raps.org/"><span>Learning Portal</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/education-events/executive-leadership-program"><span>Executive Development</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/rac-credential/prepare/rac-prep-tools"><span>RAC Prep</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="https://www.raps.org/events/?etype=onlineworkshop&topic=Select%20Topic&pgSize=12&sortBy=1"><span>Online Workshops</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/education-events/on-site-training"><span>Custom Corporate Training</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/europe-2020/home"><span>EURO Convergence 2020</span></a></div>
+  
+</div></ul>
+</div>
+
+<div class="col-sm-6 row-third menuCol3 menu-scroll">
+  <ul  class='item-list'><li class="item">
+  <figure class="aside"><img src="/RAPS/media/Events-Training/Convergence/2020-Convergence-200x115.jpg?ext=.jpg"  class="img-menu-popup" style="width:100%"></figure>
+  <h3 class="menu-pop-up-h3">Regulatory Convergence</h3>
+<p class="menu-p">
+Join the brightest minds in regulatory at the annual Regulatory Convergence.  See the global regulatory community in action. Intensive workshops. Topical sessions. Meet ups with regulators.  This is where it all comes together.
+</p>
+<a href="/regulatory-convergence" class="menu-h4">LEARN MORE</a>
+</li><li class="item">
+  <figure class="aside"><img src="/RAPS/media/European-Conference/2020/2020-Euro-Convergence-200x115.jpg?ext=.jpg"  class="img-menu-popup" style="width:100%"></figure>
+  <h3 class="menu-pop-up-h3">EURO Convergence 2020</h3>
+<p class="menu-p">
+With so many global regulation changes, staying informed is a challenge. Join other regulatory professionals as you navigate the gray together.
+</p>
+<a href="/europe-2020" class="menu-h4">LEARN MORE</a>
+</li></ul>
+</div>
+</div>
+</div><div class="submenu" id="submenu">
+<div >  <a href="/publications-resources"><span>Publications & Resources</span></a></div>
+  <div >
+<div class="nav-sub-menu">
+  <ul  ><div class="submenu" id="submenu">
+<div >  <a href="/publications-resources"><span>Publications & Resources</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="https://my.raps.org/online-store/books"><span>Books</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/publications-resources/fundamentals"><span>Fundamentals Series</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/publications-resources/acronyms-definitions"><span>Regipedia</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/publications-resources/eu-mdr,-ivdr"><span>EU MDR, IVDR</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="https://www.raps.org/podcasts"><span>Podcasts</span></a></div>
+  
+</div></ul>
+</div>
+
+<div class="nav-sub-menu">
+  <ul  ><div class="submenu" id="submenu">
+<div >  <a href="/publications-resources/university-resources"><span>University Resources</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/publications-resources/suppliers-guide"><span>Suppliers Guide</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/publications-resources/university-degrees-and-certificates"><span>University Degrees & Certificates</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/publications-resources/group-site-licenses"><span>Publication Groups Rates</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/publications-resources/research-reports"><span>Research & Reports</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/publications-resources/call-for-authors"><span>Call for Authors</span></a></div>
+  
+</div></ul>
+</div>
+
+<div class="col-sm-6 row-third menuCol3 menu-scroll">
+  <ul  class='item-list'><li class="item">
+  <figure class="aside"><img src="/getmedia/5a70d9f7-e053-4321-ac78-80c77ecf7219/2020-03-Biopharm-Strategy-book-(1).png.aspx?width=145&height=200&ext=.png"  class="img-menu-popup" style="width:100%"></figure>
+  <h3 class="menu-pop-up-h3">Just Released: <em>Global Pharmaceutical and Biologics Regulatory Strategy, Second Edition</em></h3>
+<p class="menu-p">
+Updated by a group of distinguished regulatory experts, this new edition is a must-have handbook for regulatory professionals at all levels.
+</p>
+<a href="https://my.raps.org/online-store/merchandise-details/?id=42ac588b-ba11-4910-8775-39567cdbb12e" class="menu-h4">BUY NOW </a>
+</li></ul>
+</div>
+</div>
+</div><div class="submenu" id="submenu">
+<div >  <a href="/rac-credential"><span>RAC Credential</span></a></div>
+  <div >
+<div class="nav-sub-menu">
+  <ul  ><div class="submenu" id="submenu">
+<div >  <a href="/rac-credential"><span>RAC Credential</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="https://my.raps.org/Purchase-Certification-Application"><span>Apply</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/rac-credential/prepare-for-the-exam"><span>Prepare for the Exam</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/rac-credential/prepare/scheduling-your-rac"><span>Exam Sites & Scheduling</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/rac-credential/maintain-your-rac"><span>Maintain your RAC</span></a></div>
+  
+</div></ul>
+</div>
+
+<div class="nav-sub-menu">
+  <ul  ><div class="submenu" id="submenu">
+<div >  <a href="/rac-credential/rac-benefits"><span>RAC Benefits</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/rac-credential/rac-or-certificate-training"><span>RAC or Certificate Training</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="/rac-credential/resources/recertification-resources"><span>RAC Resources</span></a></div>
+  
+</div><div class="submenu" id="submenu">
+<div >  <a href="https://my.raps.org/RAC_Lookup_All"><span>Current RAC Holders</span></a></div>
+  
+</div></ul>
+</div>
+
+<div class="col-sm-6 row-third menuCol3 menu-scroll">
+  <ul  class='item-list'><li class="item">
+  <figure class="aside"><img src="/RAPS/media/Placeholders/2020-04-RAC-Virtual-Proctoring-menu-200x115.jpg?ext=.jpg"  class="img-menu-popup" style="width:100%"></figure>
+  <h3 class="menu-pop-up-h3">New: Take the RAC Exam Online </h3>
+<p class="menu-p">
+In light of the COVID-19 pandemic, the RAC Board has elected to offer online testing with live online proctoring this summer. 
+</p>
+<a href="/rac-credential/define-rac/take-the-rac-online" class="menu-h4">LEARN MORE</a>
+</li></ul>
+</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+           
+
+</header>
+
+
+<div id="mainNavigation" class="navigation-region">
+  <nav id="site-navigation" class="main-nav nav-bar" role="navigation">
+    <div class="hidden-info visuallyhidden focusable">
+        <p>The site navigation utilizes arrow, enter, escape, and space bar key commands. Left and right arrows move
+            across top level links and expand / close menus in sub levels. Up and Down arrows will open main level
+            menus and toggle through sub tier links. Enter and space open menus and escape closes them as well. Tab
+            will move on to the next part of the site rather than go through menu items.</p>
+    </div>
+    <ul class="cm-menu" role="menubar">
+<li data-type='mega'>
+  <a href="/who-we-are"><span>Who We Are</span></a>
+  <div class="custom-sub"><div class="nav-sub-menu">
+  <ul ><li >
+  <a href="/who-we-are"><span>Who We Are</span></a>
+  
+</li><li >
+  <a href="/who-we-are/contact-us"><span>Contact Us</span></a>
+  
+</li><li >
+  <a href="/who-we-are/advancing-the-profession"><span>Advancing the Profession</span></a>
+  
+</li><li >
+  <a href="/who-we-are/board-of-directors"><span>Board of Directors & Governance</span></a>
+  
+</li><li >
+  <a href="/who-we-are/work-for-raps"><span>Work for RAPS</span></a>
+  
+</li></ul>
+</div>
+<div class="nav-sub-menu">
+  <ul ><li >
+  <a href="/website/covid-19-resources"><span>COVID-19 Resource Center</span></a>
+  
+</li><li >
+  <a href="/who-we-are/raps-europe"><span>RAPS Europe</span></a>
+  
+</li><li >
+  <a href="/who-we-are/press-room"><span>Press Room</span></a>
+  
+</li><li >
+  <a href="/who-we-are/advertise"><span>Advertise</span></a>
+  
+</li><li >
+  <a href="/who-we-are/year-in-review"><span>Year In Review</span></a>
+  
+</li></ul>
+</div>
+<div class="nav-callouts">
+  <ul class='item-list'><li class="item">
+  <figure class="aside"><a href="/careers/about-the-regulatory-profession"><img src="/RAPS/media/Who-We-Are/who-we-are-2.jpg?ext=.jpg"></a></figure>
+  <div class="item-content">
+    <h3 class="title"><a href="/careers/about-the-regulatory-profession" style="color:white;padding-left:0;">About the Regulatory Profession</a></h3>
+    <p class="summary">The regulatory function is vital in making safe and effective healthcare products available worldwide. Individuals who ensure regulatory compliance and prepare submissions, as well as those whose main job function is clinical affairs or quality assurance are all considered regulatory professionals.</p>
+    <a href="/careers/about-the-regulatory-profession" class="more">Learn More About Regulatory </a>
+  </div>
+</li>
+<li class="item">
+  <figure class="aside"><a href="/website/covid-19-resources"><img src="/RAPS/media/Placeholders/2020-04-menu-covid19.jpg?ext=.jpg"></a></figure>
+  <div class="item-content">
+    <h3 class="title"><a href="/website/covid-19-resources" style="color:white;padding-left:0;">COVID-19 Resource Center</a></h3>
+    <p class="summary">Resources, news and special offers to support you and your professional development during this difficult time.</p>
+    <a href="/website/covid-19-resources" class="more">LEARN MORE</a>
+  </div>
+</li>
+</ul>
+</div>
+</div>
+</li><li data-type='mega'>
+  <a href="/news-and-articles"><span>News & Articles</span></a>
+  <div class="custom-sub"><div class="nav-sub-menu">
+  <ul ><li >
+  <a href="/news-and-articles"><span>Regulatory Focus™</span></a>
+  
+</li><li >
+  <a href="/news-and-articles/about-regulatory-focus"><span>About Regulatory Focus</span></a>
+  
+</li><li >
+  <a href="/news-and-articles/subscribe-to-rf-today"><span>Subscribe to RF Today</span></a>
+  
+</li><li >
+  <a href="/podcasts"><span>Podcasts</span></a>
+  
+</li><li >
+  <a href="/news-and-articles/board-of-editors"><span>Editorial Advisory Committee</span></a>
+  
+</li><li >
+  <a href="/news-and-articles/copyright-clearance-center"><span>Copyright & Terms of Use</span></a>
+  
+</li></ul>
+</div>
+<div class="nav-sub-menu">
+  <ul ><li >
+  <a href="/news-and-articles/news-articles?searchmode=exactphrase&sortby=ArticleReleaseDate+DESC&pagesize=12&category=394"><span>Feature Articles</span></a>
+  
+</li><li >
+  <a href="/news-and-articles/regulatory-recon"><span>Regulatory Recon</span></a>
+  
+</li><li >
+  <a href="/news-and-articles/regulatory-explainers"><span>Regulatory Explainers</span></a>
+  
+</li><li >
+  <a href="/news-and-articles/regulatory-trackers"><span>Regulatory Trackers</span></a>
+  
+</li><li >
+  <a href="/news-and-articles/news-articles?searchtext=&searchmode=exactphrase&sortby=ArticleReleaseDate+DESC&pagesize=12&category=393"><span>RAPS' Latest</span></a>
+  
+</li><li >
+  <a href="/news-and-articles/rf-article-series"><span>RF Article Series</span></a>
+  
+</li></ul>
+</div>
+<div class="nav-callouts">
+  <ul class='item-list'><li class="item">
+  <figure class="aside"><a href="/website/covid-19-resources"><img src="/RAPS/media/Placeholders/2020-04-menu-covid19.jpg?ext=.jpg"></a></figure>
+  <div class="item-content">
+    <h3 class="title"><a href="/website/covid-19-resources" style="color:white;padding-left:0;">COVID-19 Resource Center</a></h3>
+    <p class="summary">Resources, news and special offers to support you and your professional development during this difficult time.</p>
+    <a href="/website/covid-19-resources" class="more">LEARN MORE</a>
+  </div>
+</li>
+</ul>
+</div>
+</div>
+</li><li data-type='mega'>
+  <a href="/membership-community"><span>Membership & Community</span></a>
+  <div class="custom-sub"><div class="nav-sub-menu">
+  <ul ><li >
+  <a href="/membership-community"><span>Membership & Community</span></a>
+  
+</li><li >
+  <a href="/member-dashboard"><span>Member Dashboard</span></a>
+  
+</li><li >
+  <a href="/membership-community/membership-type-benefits"><span>Membership Types & Benefits</span></a>
+  
+</li><li >
+  <a href="/membership-community/renew-your-membership"><span>Renew Your Membership</span></a>
+  
+</li><li >
+  <a href="https://connect.raps.org/network/members"><span>Member Directory</span></a>
+  
+</li><li >
+  <a href="http://connect.raps.org"><span>Regulatory Exchange Community</span></a>
+  
+</li><li >
+  <a href="/membership-community/chapters-local-networks"><span>Chapters & Local Networks</span></a>
+  
+</li></ul>
+</div>
+<div class="nav-sub-menu">
+  <ul ><li >
+  <a href="/join-raps"><span>Join RAPS</span></a>
+  
+</li><li >
+  <a href="/membership-community/enterprise-members"><span>Enterprise Membership</span></a>
+  
+</li><li >
+  <a href="https://www.raps.org/regexapp"><span>RegEx Community App</span></a>
+  
+</li><li >
+  <a href="/membership-community/raps-fellows"><span>RAPS Fellows</span></a>
+  
+</li><li >
+  <a href="/membership-community/volunteer-opportunities"><span>Volunteer Opportunities</span></a>
+  
+</li><li >
+  <a href="/membership-community/awards"><span>Awards</span></a>
+  
+</li></ul>
+</div>
+<div class="nav-callouts">
+  <ul class='item-list'><li class="item">
+  <figure class="aside"><a href="/who-we-are/advancing-the-profession/code-of-ethics"><img src="/RAPS/media/Membership-Community/Callout%20Images/ethics.jpg?ext=.jpg"></a></figure>
+  <div class="item-content">
+    <h3 class="title"><a href="/who-we-are/advancing-the-profession/code-of-ethics" style="color:white;padding-left:0;">Regulatory Code of Ethics</a></h3>
+    <p class="summary">One of our most valuable contributions to the profession is the Regulatory Code of Ethics. The Code of Ethics provides regulatory professionals with core values that hold them to the highest standards of professional conduct.</p>
+    <a href="/who-we-are/advancing-the-profession/code-of-ethics" class="more">Follow the Code</a>
+  </div>
+</li>
+<li class="item">
+  <figure class="aside"><a href="http://learningportal.raps.org/subscriptions/1017/member-knowledge-center"><img src="/RAPS/media/Membership-Community/Callout%20Images/knowledge-center.jpg?ext=.jpg"></a></figure>
+  <div class="item-content">
+    <h3 class="title"><a href="http://learningportal.raps.org/subscriptions/1017/member-knowledge-center" style="color:white;padding-left:0;">Member Knowledge Center</a></h3>
+    <p class="summary">Your membership opens the door to free learning resources on demand. Check out the Member Knowledge Center for free webcasts, publications and online courses.</p>
+    <a href="http://learningportal.raps.org/subscriptions/1017/member-knowledge-center" class="more">Get Started</a>
+  </div>
+</li>
+</ul>
+</div>
+</div>
+</li><li data-type='mega'>
+  <a href="/careers"><span>Careers</span></a>
+  <div class="custom-sub"><div class="nav-sub-menu">
+  <ul ><li >
+  <a href="/careers"><span>Careers</span></a>
+  
+</li><li >
+  <a href="http://regulatorycareers.raps.org/jobseekers/"><span>Find a Job</span></a>
+  
+</li><li >
+  <a href="http://regulatorycareers.raps.org/employers/"><span>Post a Job</span></a>
+  
+</li><li >
+  <a href="/careers/about-the-regulatory-profession"><span>About the Regulatory Profession</span></a>
+  
+</li><li >
+  <a href="/careers/rac-credentials"><span>RAC Credential</span></a>
+  
+</li></ul>
+</div>
+<div class="nav-sub-menu">
+  <ul ><li >
+  <a href="/careers/scope-of-practice-survey"><span>Scope of Practice Survey</span></a>
+  
+</li><li >
+  <a href="/careers/career-fairs"><span>Career Fairs</span></a>
+  
+</li><li >
+  <a href="https://connect.raps.org/rapscareercenter/home"><span>RegEx Career Community</span></a>
+  
+</li><li >
+  <a href="/careers/regulatory-competency-framework"><span>Regulatory Competency Framework</span></a>
+  
+</li></ul>
+</div>
+<div class="nav-callouts">
+  <ul class='item-list'><li class="item">
+  <figure class="aside"><a href="/careers/regulatory-competency-framework"><img src="/RAPS/media/Careers/RAPS-Regulatory-Competency-Framework-1.png?ext=.png"></a></figure>
+  <div class="item-content">
+    <h3 class="title"><a href="/careers/regulatory-competency-framework" style="color:white;padding-left:0;">Regulatory Competency Framework</a></h3>
+    <p class="summary">Like all professions, regulatory is based on a shared set of competencies. The Regulatory Competency Framework describes the essential elements of what is required of regulatory professionals at four major career and professional levels. </p>
+    <a href="/careers/regulatory-competency-framework" class="more">LEARN MORE</a>
+  </div>
+</li>
+</ul>
+</div>
+</div>
+</li><li data-type='mega'>
+  <a href="/education-events"><span>Education & Events</span></a>
+  <div class="custom-sub"><div class="nav-sub-menu">
+  <ul ><li >
+  <a href="/education-events"><span>Education & Events</span></a>
+  
+</li><li >
+  <a href="/education-events/e-learning"><span>E-Learning</span></a>
+  
+</li><li >
+  <a href="/events-training/industry-events"><span>Industry Events</span></a>
+  
+</li><li >
+  <a href="/education-events/in-person"><span>In-Person</span></a>
+  
+</li><li >
+  <a href="/events"><span>Calendar</span></a>
+  
+</li><li >
+  <a href="/regulatory-convergence"><span>Regulatory Convergence</span></a>
+  
+</li></ul>
+</div>
+<div class="nav-sub-menu">
+  <ul ><li >
+  <a href="https://learningportal.raps.org/"><span>Learning Portal</span></a>
+  
+</li><li >
+  <a href="/education-events/executive-leadership-program"><span>Executive Development</span></a>
+  
+</li><li >
+  <a href="/rac-credential/prepare/rac-prep-tools"><span>RAC Prep</span></a>
+  
+</li><li >
+  <a href="https://www.raps.org/events/?etype=onlineworkshop&topic=Select%20Topic&pgSize=12&sortBy=1"><span>Online Workshops</span></a>
+  
+</li><li >
+  <a href="/education-events/on-site-training"><span>Custom Corporate Training</span></a>
+  
+</li><li >
+  <a href="/europe-2020/home"><span>EURO Convergence 2020</span></a>
+  
+</li></ul>
+</div>
+<div class="nav-callouts">
+  <ul class='item-list'><li class="item">
+  <figure class="aside"><a href="/regulatory-convergence"><img src="/RAPS/media/Events-Training/Convergence/2020-Convergence-200x115.jpg?ext=.jpg"></a></figure>
+  <div class="item-content">
+    <h3 class="title"><a href="/regulatory-convergence" style="color:white;padding-left:0;">Regulatory Convergence</a></h3>
+    <p class="summary">Join the brightest minds in regulatory at the annual Regulatory Convergence.  See the global regulatory community in action. Intensive workshops. Topical sessions. Meet ups with regulators.  This is where it all comes together.</p>
+    <a href="/regulatory-convergence" class="more">LEARN MORE</a>
+  </div>
+</li>
+<li class="item">
+  <figure class="aside"><a href="/europe-2020"><img src="/RAPS/media/European-Conference/2020/2020-Euro-Convergence-200x115.jpg?ext=.jpg"></a></figure>
+  <div class="item-content">
+    <h3 class="title"><a href="/europe-2020" style="color:white;padding-left:0;">EURO Convergence 2020</a></h3>
+    <p class="summary">With so many global regulation changes, staying informed is a challenge. Join other regulatory professionals as you navigate the gray together.</p>
+    <a href="/europe-2020" class="more">LEARN MORE</a>
+  </div>
+</li>
+</ul>
+</div>
+</div>
+</li><li data-type='mega'>
+  <a href="/publications-resources"><span>Publications & Resources</span></a>
+  <div class="custom-sub"><div class="nav-sub-menu">
+  <ul ><li >
+  <a href="/publications-resources"><span>Publications & Resources</span></a>
+  
+</li><li >
+  <a href="https://my.raps.org/online-store/books"><span>Books</span></a>
+  
+</li><li >
+  <a href="/publications-resources/fundamentals"><span>Fundamentals Series</span></a>
+  
+</li><li >
+  <a href="/publications-resources/acronyms-definitions"><span>Regipedia</span></a>
+  
+</li><li >
+  <a href="/publications-resources/eu-mdr,-ivdr"><span>EU MDR, IVDR</span></a>
+  
+</li><li >
+  <a href="https://www.raps.org/podcasts"><span>Podcasts</span></a>
+  
+</li></ul>
+</div>
+<div class="nav-sub-menu">
+  <ul ><li >
+  <a href="/publications-resources/university-resources"><span>University Resources</span></a>
+  
+</li><li >
+  <a href="/publications-resources/suppliers-guide"><span>Suppliers Guide</span></a>
+  
+</li><li >
+  <a href="/publications-resources/university-degrees-and-certificates"><span>University Degrees & Certificates</span></a>
+  
+</li><li >
+  <a href="/publications-resources/group-site-licenses"><span>Publication Groups Rates</span></a>
+  
+</li><li >
+  <a href="/publications-resources/research-reports"><span>Research & Reports</span></a>
+  
+</li><li >
+  <a href="/publications-resources/call-for-authors"><span>Call for Authors</span></a>
+  
+</li></ul>
+</div>
+<div class="nav-callouts">
+  <ul class='item-list'><li class="item">
+  <figure class="aside"><a href="https://my.raps.org/online-store/merchandise-details/?id=42ac588b-ba11-4910-8775-39567cdbb12e"><img src="/getmedia/5a70d9f7-e053-4321-ac78-80c77ecf7219/2020-03-Biopharm-Strategy-book-(1).png.aspx?width=145&height=200&ext=.png"></a></figure>
+  <div class="item-content">
+    <h3 class="title"><a href="https://my.raps.org/online-store/merchandise-details/?id=42ac588b-ba11-4910-8775-39567cdbb12e" style="color:white;padding-left:0;">Just Released: <em>Global Pharmaceutical and Biologics Regulatory Strategy, Second Edition</em></a></h3>
+    <p class="summary">Updated by a group of distinguished regulatory experts, this new edition is a must-have handbook for regulatory professionals at all levels.</p>
+    <a href="https://my.raps.org/online-store/merchandise-details/?id=42ac588b-ba11-4910-8775-39567cdbb12e" class="more">BUY NOW </a>
+  </div>
+</li>
+</ul>
+</div>
+</div>
+</li><li data-type='mega'>
+  <a href="/rac-credential"><span>RAC Credential</span></a>
+  <div class="custom-sub"><div class="nav-sub-menu">
+  <ul ><li >
+  <a href="/rac-credential"><span>RAC Credential</span></a>
+  
+</li><li >
+  <a href="https://my.raps.org/Purchase-Certification-Application"><span>Apply</span></a>
+  
+</li><li >
+  <a href="/rac-credential/prepare-for-the-exam"><span>Prepare for the Exam</span></a>
+  
+</li><li >
+  <a href="/rac-credential/prepare/scheduling-your-rac"><span>Exam Sites & Scheduling</span></a>
+  
+</li><li >
+  <a href="/rac-credential/maintain-your-rac"><span>Maintain your RAC</span></a>
+  
+</li></ul>
+</div>
+<div class="nav-sub-menu">
+  <ul ><li >
+  <a href="/rac-credential/rac-benefits"><span>RAC Benefits</span></a>
+  
+</li><li >
+  <a href="/rac-credential/rac-or-certificate-training"><span>RAC or Certificate Training</span></a>
+  
+</li><li >
+  <a href="/rac-credential/resources/recertification-resources"><span>RAC Resources</span></a>
+  
+</li><li >
+  <a href="https://my.raps.org/RAC_Lookup_All"><span>Current RAC Holders</span></a>
+  
+</li></ul>
+</div>
+<div class="nav-callouts">
+  <ul class='item-list'><li class="item">
+  <figure class="aside"><a href="/rac-credential/define-rac/take-the-rac-online"><img src="/RAPS/media/Placeholders/2020-04-RAC-Virtual-Proctoring-menu-200x115.jpg?ext=.jpg"></a></figure>
+  <div class="item-content">
+    <h3 class="title"><a href="/rac-credential/define-rac/take-the-rac-online" style="color:white;padding-left:0;">New: Take the RAC Exam Online </a></h3>
+    <p class="summary">In light of the COVID-19 pandemic, the RAC Board has elected to offer online testing with live online proctoring this summer. </p>
+    <a href="/rac-credential/define-rac/take-the-rac-online" class="more">LEARN MORE</a>
+  </div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</nav>
+</div>
+
+
+<main id="site-main" class="site-main container" role="main">
+  <!-- Public safety message -->
+<div align="center" style="vertical-align: center;">
+<p><b>RAPS is closely monitoring developments in the Coronavirus (COVID-19) outbreak. See our <a href="http://www.raps.org/public-safety">public safety page</a> for the latest updates.</b></p>
+</div>
+<!-- Maintenance messages --><!--
+<p><b>The RAPS Marketplace is currently unavailable due to unexpected site maintenance. We apologize for any inconvenience during this time and expect the store to be back online shortly.</b></p>
+<div align="center" style="vertical-align: center;">
+<p><b>The RAPS store will be under maintenance Saturday, 6 June between 6 AM and 12 PM EST. Store functionality may be unavailable at times during this window.<br />
+We apologize for any inconvenience caused during this time.</b></p>
+</div>--><!-- Holiday message --><!--<div align="center" style="vertical-align: center;">RAPS Headquarters will be closed from 25 December 2019 through 1 January 2020 for the holidays.&nbsp; Our Customer Service team will be available to answer your requests except on 25-26 December 2019 and 1 January 2020.&nbsp; We wish everyone warm Seasons Greetings!</div> -->
+
+
+
+
+
+<div class="site-top">
+  <div class="text-center top-banner" id="topbanner" style="display:none">
+  <a id="p_lt_ctl04_SiteMainPlaceholder_p_lt_ctl00_BannerRotator_lnkBanner" class="CMSBanner Banner" href="https://info.veristat.com/covid19_considerationsforsuccess_guide-raps" onclick="this.href=&#39;/CMSModules/BannerManagement/CMSPages/BannerRedirect.ashx?bannerID=290&#39;;" onmouseup="this.href=&#39;/CMSModules/BannerManagement/CMSPages/BannerRedirect.ashx?bannerID=290&#39;;" target="_blank"><picture> <source media="(max-width: 991px)" srcset="/RAPS/media/Advertising/2020/2005RFXVERIS5_300x50-mobile.jpg" /> <source media="(min-width: 992px)" srcset="/RAPS/media/Advertising/2018/Jan/2005RFXVERIS5_970x90.jpg" /> <img alt="Veristat" src="/RAPS/media/Advertising/2020/2005RFXVERIS5_300x50-mobile.jpg" title="Veristat" /> </picture></a>
+</div><div class="page-header banner-short" style="margin: 0; background-image:url('/getattachment/News-and-Articles/newsbanner.jpg.aspx')">
+<div class="container">
+<h1 class="page-title"><img alt="Regulatory Focus" src="/App_Themes/RAPS/assets/dist/images/regulatory-focus-full.png" /></h1>
+</div>
+</div>
+
+</div>
+<div class="container">
+  <div class="page-tools row">
+    <div class="col-sm-8 col-lg-9">
+      <a href="/news-and-articles" class="CMSBreadCrumbsLink">Regulatory Focus™</a> > <a href="/news-and-articles/news-articles" class="CMSBreadCrumbsLink">News Articles</a> > <a href="/news-and-articles/news-articles/2020" class="CMSBreadCrumbsLink">2020</a> > <a href="/news-and-articles/news-articles/2020/3" class="CMSBreadCrumbsLink">3</a> > <span  class="CMSBreadCrumbsCurrentItem">COVID-19 vaccine tracker</span>
+
+    </div>
+    <div class="col-sm-4 col-lg-3">
+      <div class="getsocial gs-inline-group"></div>
+    </div>
+  </div>
+</div>
+<div class="container two-column">
+<div class="row">
+<div class="col-md-9">
+  
+<div class="article" id="article">
+  <h1 class="black">COVID-19 vaccine tracker</h1>
+  <p class="small" style="margin-bottom:35px">Posted 28 May 2020 | By <span class="authors"><a href="/news-and-articles/news-articles?author=345d8d0c-6d83-4c23-8563-a004254f5f03">Jeff Craven</a>&nbsp;</span></p>
+  <div style="float:right">
+    <img alt="COVID-19 vaccine tracker" src="/RAPS/media/Education-Events/2020-04-COVID-19-Vaccine-Tracker-500x300-(1).jpg?ext=.jpg?maxsidesize=100" align="left" hspace="5" vspace="5" />
+    <p class="small"></p>
+  </div>
+  <div>
+      Researchers worldwide are working around the clock to find a vaccine against SARS-CoV-2, the virus causing the COVID-19 pandemic. Experts estimate that a fast-tracked vaccine development process could speed a successful candidate to market in approximately 12-18 months &ndash; if the process goes smoothly from conception to market availability.<br />
+&nbsp;<br />
+This tracker lists COVID-19 vaccine candidates currently in Phase 1-3 trials, as well as major candidates in pre-clinical stages of development and research. Information will be updated weekly. If you notice an issue with this data or wish to submit an update, please email&nbsp;<em>Focus</em>&nbsp;at&nbsp;<a href="mailto:news@raps.org">news@raps.org</a>.&nbsp;<br />
+&nbsp;<br />
+<em>Updated 28 May</em> to include new information on vaccine candidates from Merck, Moderna, CanSino Biologics and ImmunityBio.&nbsp; <!-- Begin Data table code --> <script src="//cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js" type="text/javascript"></script>
+<link href="https://cdn.datatables.net/1.10.21/css/jquery.dataTables.min.css" rel="stylesheet" /> <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.1.0/papaparse.min.js" type="text/javascript"></script><script type="text/javascript">
+function format ( d ) {
+return '<h4>Study Design & Details</h4> ' +
+'<p>' + d['Study Design & Details'] + '</p>';
+}
+
+$.noConflict();
+jQuery(document).ready(function($) {
+// removes last line if empty from multi-line string 
+	function removeTrailingLine(long_string) {
+		var x = long_string;
+		if(x.split(/\r?\n/).pop().length == 0) {
+			return x.substring(0, x.lastIndexOf("\n"));
+		} else {
+			return x;
+		}
+	}
+$.get('/RAPS/media/news-images/data/vaccine-tracker-28-May.csv', function(data, status){
+    //alert("Data: " + data + "\nStatus: " + status);
+var objJson = Papa.parse(removeTrailingLine(data), { "header": true});
+var csvJson = JSON.stringify(objJson.data, null, 2);
+
+ var table = $('#vax').DataTable( { 
+     "order": [],
+     data: eval(csvJson),
+        "columns": [
+            {
+                "class":          "details-control",
+                "orderable":      false,
+                "data":           null,
+                "defaultContent": ""
+            },
+            { "data": "Candidate", "title": "Candidate", "width": "110px" },
+            { "data": "Sponsor", "title": "Sponsor" },
+            { "data": "Study Design & Details", "title": "Study Design & Details", "visible": false }, 
+            { "data": "Trial Phase", "title": "<nobr>Trial Phase</nobr>" },
+            { "data": "Institution", "title": "Institution" },
+            { "data": "Funding", "title": "Funding" }
+        ],
+  });
+
+    // Add event listener for opening and closing details
+    $('#vax tbody').on('click', 'td.details-control', function () {
+        var tr = $(this).closest('tr');
+        var row = table.row( tr );
+ 
+        if ( row.child.isShown() ) {
+            // This row is already open - close it
+            row.child.hide();
+            tr.removeClass('shown');
+        }
+        else {
+            // Open this row
+            row.child( format(row.data()) ).show();
+            tr.addClass('shown');
+        }
+    } );
+  var open = false;
+  $("#toggleDetails").on('click', function(evt) {
+
+    var tr = $('#vax tbody, #vax tbody').children('tr.even, tr.odd');
+    $.each (tr, function (idx, val) {
+      var row = table.row( $(this) );
+      if ( open ) {
+        // This row is already open - close it
+        row.child.hide();
+        tr.removeClass('shown');
+      }
+      else {
+        // Open this row
+        row.child( format(row.data()) ).show();
+        tr.addClass('shown');
+      }
+   });
+   open = !open;
+  });
+});
+
+});
+
+
+</script>
+<style type="text/css">#vax th {
+    background-color: #FBFBFB;
+  }
+#vax td, #vax th{ 
+  font-size: 14px !important;
+}
+td.details-control {
+    background: url('https://datatables.net/examples/resources/details_open.png') no-repeat center center;
+    cursor: pointer;
+}
+tr.shown td.details-control {
+    background: url('https://datatables.net/examples/resources/details_close.png') no-repeat center center;
+}
+</style>
+<p>&nbsp;</p>
+
+<div class="text-center"><a class="btn btn-success" id="toggleDetails">Show/Hide Study Design &amp; Details</a></div>
+&nbsp;
+
+<div class="table-responsive">
+<table class="display" id="vax" style="width:100%">
+</table>
+</div>
+  </div>
+  <hr />
+</div>
+
+<div class="TagCloud">
+    <p>Tags: <a href="/news-and-articles/news-articles?searchmode=exactphrase&DocumentTags=biologic">biologic</a>, <a href="/news-and-articles/news-articles?searchmode=exactphrase&DocumentTags=coronavirus">coronavirus</a>, <a href="/news-and-articles/news-articles?searchmode=exactphrase&DocumentTags=worldwide">worldwide</a></p>
+</div>
+
+
+<div style="padding-top: 1em; padding-bottom: 1em;" class="text-center">
+  <a id="p_lt_ctl04_SiteMainPlaceholder_p_lt_ctl03_BannerRotatorWidget2_lnkBanner" class="CMSBanner Banner" href="https://www2.namsa.com/medical-writing-2020" onclick="this.href=&#39;/CMSModules/BannerManagement/CMSPages/BannerRedirect.ashx?bannerID=284&#39;;" onmouseup="this.href=&#39;/CMSModules/BannerManagement/CMSPages/BannerRedirect.ashx?bannerID=284&#39;;" target="_blank"><img id="p_lt_ctl04_SiteMainPlaceholder_p_lt_ctl03_BannerRotatorWidget2_imgBanner" title="NAMSA" src="/RAPS/media/Advertising/2018/Jan/2005RFXNAMSA1_728x90.png" alt="NAMSA" style="" /></a>
+</div>
+
+<div class="container" id="articlecontiner">
+    <div class="col-md-12">
+        <section class="module news news-featured">
+            <header class="module-header">
+                <h2 style="color: #000">Regulatory News</h2>
+            </header>
+            <ul class="list-flex slick-on-mobile">
+                
+                        <li>
+                            <div class="featurette news-featurette">
+                                <figure class="thumbnail">
+                                    <div class="featured-image" style="background-image: url(/getmedia/e3306bad-07f5-4cdb-9fd6-cd5fc6be3b4c/European-union-concept-Stock-image.jpg.aspx?width=300&height=200&ext=.jpg);">
+                                        <span class="sr-only">Story Thumbnail</span>
+                                    </div>
+                                </figure>
+
+                                <div class="item-content">
+                                    <h3 class="title">
+                                        <a id="p_lt_ctl04_SiteMainPlaceholder_p_lt_ctl03_RecentNewsByCategory_repItems_ctl00_lnkEventTitle" class="link-title" href="../5/ema-explains-gmp-and-gdp-flexibilities-amid-covid">EMA explains GMP and GDP flexibilities amid COVID-19</a>
+                                    </h3>
+
+                                    <ul class="meta">
+                                        <li class="meta-item date">
+                                            28 May 2020
+                                        </li>
+                                        <li class="meta-item author">By
+                                            <a href="/news-and-articles/news-articles?author=78cd92e4-508b-4d60-b5be-6c8739fd0184">Michael Mezher</a>&nbsp;
+                                        </li>
+                                    </ul>
+                                    <a id="p_lt_ctl04_SiteMainPlaceholder_p_lt_ctl03_RecentNewsByCategory_repItems_ctl00_lnkArticle" class="btn btn-more" href="../5/ema-explains-gmp-and-gdp-flexibilities-amid-covid">
+                                        <svg class="icomoon icomoon-arrow-right">
+                                            <use xlink:href="#icomoon-arrow-right"></use>
+                                        </svg>
+                                        <span class="sr-only">Read More</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </li>
+                    
+                        <li>
+                            <div class="featurette news-featurette">
+                                <figure class="thumbnail">
+                                    <div class="featured-image" style="background-image: url(/getmedia/5dc0b283-cfef-4d9a-8c33-501ed669fb65/canada.jpg.aspx?width=300&height=241&ext=.jpg);">
+                                        <span class="sr-only">Story Thumbnail</span>
+                                    </div>
+                                </figure>
+
+                                <div class="item-content">
+                                    <h3 class="title">
+                                        <a id="p_lt_ctl04_SiteMainPlaceholder_p_lt_ctl03_RecentNewsByCategory_repItems_ctl01_lnkEventTitle" class="link-title" href="../5/health-canada-releases-guidance-to-streamline-covi">Health Canada releases guidance to streamline COVID-19 clinical trials</a>
+                                    </h3>
+
+                                    <ul class="meta">
+                                        <li class="meta-item date">
+                                            28 May 2020
+                                        </li>
+                                        <li class="meta-item author">By
+                                            <a href="/news-and-articles/news-articles?author=e5258703-8834-4bc1-9546-e843a25aecce">Kari Oakes</a>&nbsp;
+                                        </li>
+                                    </ul>
+                                    <a id="p_lt_ctl04_SiteMainPlaceholder_p_lt_ctl03_RecentNewsByCategory_repItems_ctl01_lnkArticle" class="btn btn-more" href="../5/health-canada-releases-guidance-to-streamline-covi">
+                                        <svg class="icomoon icomoon-arrow-right">
+                                            <use xlink:href="#icomoon-arrow-right"></use>
+                                        </svg>
+                                        <span class="sr-only">Read More</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </li>
+                    
+                        <li>
+                            <div class="featurette news-featurette">
+                                <figure class="thumbnail">
+                                    <div class="featured-image" style="background-image: url(/getmedia/cba40fca-799d-402e-83bf-6b02672d86d4/iStock_000064020541_Small.jpg.jpg.aspx?width=300&height=199&ext=.jpg);">
+                                        <span class="sr-only">Story Thumbnail</span>
+                                    </div>
+                                </figure>
+
+                                <div class="item-content">
+                                    <h3 class="title">
+                                        <a id="p_lt_ctl04_SiteMainPlaceholder_p_lt_ctl03_RecentNewsByCategory_repItems_ctl02_lnkEventTitle" class="link-title" href="../5/fda-approves-iv-artesunate-for-severe-malaria">FDA approves IV artesunate for severe malaria</a>
+                                    </h3>
+
+                                    <ul class="meta">
+                                        <li class="meta-item date">
+                                            28 May 2020
+                                        </li>
+                                        <li class="meta-item author">By
+                                            <a href="/news-and-articles/news-articles?author=78cd92e4-508b-4d60-b5be-6c8739fd0184">Michael Mezher</a>&nbsp;
+                                        </li>
+                                    </ul>
+                                    <a id="p_lt_ctl04_SiteMainPlaceholder_p_lt_ctl03_RecentNewsByCategory_repItems_ctl02_lnkArticle" class="btn btn-more" href="../5/fda-approves-iv-artesunate-for-severe-malaria">
+                                        <svg class="icomoon icomoon-arrow-right">
+                                            <use xlink:href="#icomoon-arrow-right"></use>
+                                        </svg>
+                                        <span class="sr-only">Read More</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </li>
+                    
+            </ul>
+            <footer class="module-footer">
+                <div class="text-right">
+                    <a href="/news-and-articles" class="more">View All News</a>
+                </div>
+            </footer>
+        </section>
+    </div>
+</div>
+
+</div>
+<div class="col-md-3">
+  
+<div class="cta-newsletter small-block">
+    <div class="wrap">
+            <p class="h3">Regulatory Focus <em>newsletters</em></p>
+            <p><p>All the biggest regulatory news and happenings.</p>
+</p>
+            <a href="/news-and-articles/subscribe-to-rf-today" class="btn btn-default">Subscribe</a>
+    </div>
+</div>
+<a id="p_lt_ctl04_SiteMainPlaceholder_p_lt_ctl04_BannerRotatorWidget_lnkBanner" class="CMSBanner Banner" href="https://licensale.arazygroup.com/licensalewebinar/" onclick="this.href=&#39;/CMSModules/BannerManagement/CMSPages/BannerRedirect.ashx?bannerID=291&#39;;" onmouseup="this.href=&#39;/CMSModules/BannerManagement/CMSPages/BannerRedirect.ashx?bannerID=291&#39;;" target="_blank"><img id="p_lt_ctl04_SiteMainPlaceholder_p_lt_ctl04_BannerRotatorWidget_imgBanner" title="Arazy Group" src="/RAPS/media/Advertising/2018/Jan/2005RFXARAZY1.png" alt="Arazy Group" style="" /></a><div style="width: 100%;text-align: center;padding-top: 10px;" id="bnrMostReadArticle" >
+  <a id="p_lt_ctl04_SiteMainPlaceholder_p_lt_ctl04_BannerRotatorWidget1_lnkBanner" class="CMSBanner Banner" href="https://www.dekra.us/en/medical-device-regulatory-services/overview/" onclick="this.href=&#39;/CMSModules/BannerManagement/CMSPages/BannerRedirect.ashx?bannerID=286&#39;;" onmouseup="this.href=&#39;/CMSModules/BannerManagement/CMSPages/BannerRedirect.ashx?bannerID=286&#39;;" target="_blank"><img id="p_lt_ctl04_SiteMainPlaceholder_p_lt_ctl04_BannerRotatorWidget1_imgBanner" title="DEKRA" src="/RAPS/media/Advertising/2018/Jan/2002RFXDEKRA1_300x250_1.png" alt="DEKRA" style="" /></a>
+</div>
+</div>
+</div>
+</div>
+<div class="pre-footer">
+  <div class="container">
+    <div class="col-md-12">
+      
+    </div>
+  </div>
+</div>
+</main>
+
+
+<footer class="site-footer" id="site-footer" role="contentinfo">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <div class="contact-info contact-left">
+          <address>
+<p>Regulatory Affairs Professionals Society (RAPS)<br />
+5635 Fishers Lane, Suite 400<br />
+Rockville, Maryland 20852</p>
+</address>
+
+<div class="contact-phone"><span>P <a href="tel:+1 301 770 2920">+1 301 770 2920</a></span> <span>F +1 301 841 7956</span></div>
+
+<div class="contact-email">Email: <a href="mailto:raps@raps.org">raps@raps.org</a></div>
+
+
+
+
+
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="row">
+          <div class="col-md-5 col-xs-5">
+            <div class="footer-nav">
+              <ul class="list-unstyled">
+	<li class="text-uppercase text-bold"><a href="/membership-community">MEMBERSHIP</a></li>
+	<li><a href="/who-we-are/press-room">PRESS ROOM</a></li>
+	<li><a href="https://my.raps.org">STORE</a></li>
+	<li><a href="/website/website-faqs">FAq/HELP</a></li>
+	<li><a href="/website/website-feedback">FEEDBACK</a></li>
+</ul>
+
+
+
+
+
+            </div>
+          </div>
+          <div class="col-md-7 col-xs-7">
+            <div class="footer-nav">
+              <ul class="list-unstyled">
+	<li><a href="/who-we-are/contact-us">Contact</a></li>
+	<li><a href="/who-we-are/advertise">Advertise</a></li>
+	<li><a href="/publications-resources/suppliers-guide">Suppliers Guide</a></li>
+	<li><a href="/website/privacy-policy">Privacy Policy</a></li>
+	<li><a href="/website/terms-of-use">TERMS AND CONDITIONS</a></li>
+	<li><a href="/public-safety">Public Safety</a></li>
+	<li><a href="/website/covid-19-resources">COVID-19 RESOURCE CENTER</a></li>
+</ul>
+
+
+
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <ul class="social-icomoons list-inline">
+	<li><a href="https://twitter.com/RAPSorg" target="_blank"><svg class="icomoon icomoon-twitter" xmlns="http://www.w3.org/2000/svg"> <use xlink:href="#icomoon-twitter" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg><span class="sr-only">Twitter</span></a></li>
+	<li><a href="https://www.facebook.com/RegulatoryAffairsProfessionalsSociety/" target="_blank"><svg class="icomoon icomoon-facebook" xmlns="http://www.w3.org/2000/svg"> <use xlink:href="#icomoon-facebook" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg><span class="sr-only">Facebook</span></a></li>
+	<li><a href="https://www.linkedin.com/company/306225/" target="_blank"><svg class="icomoon icomoon-linkedin" xmlns="http://www.w3.org/2000/svg"> <use xlink:href="#icomoon-linkedin" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg><span class="sr-only">LinkedIn</span></a></li>
+	<li style="display:none;"><a href="https://plus.google.com/s/RAPSOrg" target="_blank"><svg class="icomoon icomoon-google-plus" xmlns="http://www.w3.org/2000/svg"> <use xlink:href="#icomoon-google-plus" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg><span class="sr-only">Google Plus</span></a></li>
+	<li><a href="https://www.youtube.com/user/RegulatoryPros" target="_blank"><svg class="icomoon icomoon-youtube" xmlns="http://www.w3.org/2000/svg"> <use xlink:href="#icomoon-youtube" xmlns:xlink="http://www.w3.org/1999/xlink"></use> </svg><span class="sr-only">YouTube</span></a></li>
+</ul>
+
+<p class="copyright">&copy; 2020&nbsp;Regulatory Affairs Professionals Society.</p>
+
+<p class="ae">&nbsp;</p>
+
+
+
+
+
+      </div>
+    </div>
+  </div>
+</footer>
+
+    
+    
+
+<script type="text/javascript">
+	//<![CDATA[
+WebServiceCall('/cmsapi/webanalytics', 'LogHit', '{"NodeAliasPath":"/News-and-Articles/News-Articles/2020/3/COVID-19-Vaccine-Tracker","DocumentCultureCode":"en-US","UrlReferrer":""}')
+//]]>
+</script><script src="/App_Themes/RAPS/assets/dist/js/jquery-1.12.4.min.js" type="text/javascript"></script><script src="/App_Themes/RAPS/assets/dist/js/all.js" type="text/javascript"></script>
+<script type="text/javascript">
+	//<![CDATA[
+$(document).ready(function(){
+ var heroItems = $('.featured-heroes').find('> div');
+ 
+ if(heroItems.length == 1){
+$('.featured-heroes').addClass('single');
+}
+});
+//]]>
+</script>
+<script type="text/javascript">
+	//<![CDATA[
+WebServiceCall('/cmsapi/webanalytics', 'LogBannerHit', '290')
+//]]>
+</script>
+<script type="text/javascript">
+	//<![CDATA[
+WebServiceCall('/cmsapi/webanalytics', 'LogBannerHit', '290')
+//]]>
+</script>
+<script type="text/javascript">
+	//<![CDATA[
+WebServiceCall('/cmsapi/webanalytics', 'LogBannerHit', '284')
+//]]>
+</script>
+<script type="text/javascript">
+	//<![CDATA[
+WebServiceCall('/cmsapi/webanalytics', 'LogBannerHit', '291')
+//]]>
+</script>
+<script type="text/javascript">
+	//<![CDATA[
+WebServiceCall('/cmsapi/webanalytics', 'LogBannerHit', '286')
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.TextBoxWatermarkBehavior, {"ClientStateFieldID":"p_lt_ctl01_Header_ctlSearchBox_txtKeyword_exWatermark_ClientState","id":"p_lt_ctl01_Header_ctlSearchBox_txtKeyword_exWatermark","watermarkCssClass":"form-control WatermarkText","watermarkText":"Search..."}, null, null, $get("p_lt_ctl01_Header_ctlSearchBox_txtKeyword"));
+});
+//]]>
+</script>
+  <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+  <script type="text/javascript">
+      //<![CDATA[
+      if (window.WebForm_InitCallback) {
+        __theFormPostData = '';
+        __theFormPostCollection = new Array();
+        window.WebForm_InitCallback();
+      }
+      //]]>
+    </script>
+  </form>
+</body>
+</html>
