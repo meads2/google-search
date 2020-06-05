@@ -10,7 +10,7 @@ Specifically looking at various search results to better understand clusters of 
 ### **Getting Started**
 [Inspired By This Custom Google API Search](https://github.com/jjocampo/ML_PDF)
 
-#### **1.Get API Key**
+#### **1.Get API Keys**
 First check out the following site to get your own Google [API key](https://developers.google.com/custom-search/v1/overview) to enable making requests to the search engine service.
 
 #### **2. Create a Search Engine**
@@ -28,10 +28,10 @@ export
 #### **4.Search Google**
 ```python
 # Create Google Client
-gc = GoogleSearch(api_key=GOOGLE_API_KEY, 
-                  search_engine=GOOGLE_SEARCH_ENGINE)
+
+gc = GoogleSearch(api_key=GOOGLE_API_KEY, search_engine=GOOGLE_SEARCH_ENGINE)
 
 # Get Results
 results = gc.get_results(q='coffee near me')
-
+print(results)
 ```
